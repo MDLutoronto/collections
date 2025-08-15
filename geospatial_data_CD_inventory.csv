@@ -1,1067 +1,485 @@
-CD #,Title,Data producer/creator,URL,Notes
-001,Geological Map of Canada,"Douglas, Robert John Wilson, Geological Survey of Canada",https://mdl.library.utoronto.ca/collections/geospatial-data/geological-map-canada,
-002,Digital Soil Map of the World and Derived Soil Properties,FAO and UNESCO,https://mdl.library.utoronto.ca/collections/geospatial-data/digital-soil-map-world-and-derived-soil-properties,
-003,Global GIS Database: Digital Atlas of Africa,United States Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/global-gis-database-digital-atlas-africa,
-004,Digital Cartographic Reference Base Ver 2.0,"Geomatics Office, Ontario Ministry of Transportation",https://mdl.library.utoronto.ca/collections/geospatial-data/digital-cartographic-reference-base-20,
-005,Digital Cartographic Reference Base Ver 3.0,"Geomatics Office, Ontario Ministry of Transportation",https://mdl.library.utoronto.ca/collections/geospatial-data/digital-cartographic-reference-base-0,
-006,Global GIS Database: Digital Atlas of South Asia,United States Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/global-gis-database-digital-atlas-south-asia,
-007,Global GIS Database: Digital Atlas of South Pacific,United States Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/global-gis-database-digital-atlas-south-pacific,
-008,Global GIS Database: Digital Atlas of Central and South America,United States Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/global-gis-database-digital-atlas-central-and-south-america,
-009,Boulton Atlas of Toronto 1858,W.S. & H.C. Boulton.,"https://maps.library.utoronto.ca/datapub/digital/Boulton_Atlas_1858/index.php 
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106752226806196 ",
-010,Mapart Canada Street Locator,Mapart,https://mdl.library.utoronto.ca/collections/geospatial-data/mapart-canada-street-locator,
-011,Mapart Ontario Streets on CD-ROM,Mapart,https://mdl.library.utoronto.ca/collections/geospatial-data/mapart-ontario-streets-cd-rom,
-012,Africa Data Sampler,World Conservation Monitoring Centre and Food and Agriculture Organization of the United Nations,https://mdl.library.utoronto.ca/collections/geospatial-data/africa-data-sampler,With accompanying text
-013,Mapart Toronto & Area CD-ROM Atlas,Mapart,https://mdl.library.utoronto.ca/collections/geospatial-data/mapart-toronto-area-cd-rom-atlas,
-014,Gas & Power Infrastructure Map of Europe,"Andersen, Arthur",https://mdl.library.utoronto.ca/collections/geospatial-data/gas-power-infrastructure-map-europe,
-015,"Digital Elevation Model of the Greater Toronto Area, Southern Ontario Bathymetry","Natural Resources Canada, Geological Survey of Canada (Paquette, Russell, Moore, and Hinton)",https://mdl.library.utoronto.ca/collections/geospatial-data/digital-elevation-model-greater-toronto-area-southern-ontario-bathymetry,
-016,ArcCanada (1999) - Schools & Libraries Edition 2.0,ESRI Canada Inc.,https://mdl.library.utoronto.ca/collections/geospatial-data/arccanada-1999,Disc 1 of 2
-017,ArcCanada (1999) - Schools & Libraries Edition 2.0,ESRI Canada Inc.,https://mdl.library.utoronto.ca/collections/geospatial-data/arccanada-1999,Disc 2 of 2
-018-1,Surficial Geology of Southern Toronto - (including Toronto),Ontario Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/surficial-geology-southern-ontario-including-toronto,Disc 1 of 2
-018-2,Surficial Geology of Southern Toronto - (including Toronto),Ontario Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/surficial-geology-southern-ontario-including-toronto,Disc 2 of 2
-019,Electoral Geography - Digital Boundary File of Federal Electoral Districts,Elections Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/electoral-geography-digital-boundary-file-fed-1,
-020,Toronto Region Conservation Authority,Toronto Region Conservation Authority,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-region-conservation-authority-0,
-021,"Toronto Base Maps, Metro",Land Information Toronto,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-base-maps-metro,
-022,Dynmap Canada - ArcView Format,Geographic Data Technology (GDT),https://mdl.library.utoronto.ca/collections/geospatial-data/dynamap-canada-canada-nation-tile,"See also CD # 024, 028 & 029"
-023,Digital Property Data Maps,City of Toronto,"https://mdl.library.utoronto.ca/collections/geospatial-data/digital-property-data-maps 
-https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-property-data-maps-pdms-7 ",
-024,Dynamap Canada - Forward Sortation Area Boundaries,Geographic Data Technology (GDT),https://mdl.library.utoronto.ca/collections/geospatial-data/dynamap-canada-canada-nation-tile,"See also CD # 022, 028 & 029"
-025,Montreal Orthophotos,Ministere des ressources naturelles du Quebec,https://mdl.library.utoronto.ca/collections/air-photos/montreal-orthophotos,
-026,"Teranet Ontario Parcel Data - Durham, Halton, Peel, Toronto, York",Teranet,https://mdl.library.utoronto.ca/collections/geospatial-data/teranet-ontario-parcel-data-3,Disc 1 of 2
-027,Teranet Ontario Parcel Data - Basic Reports,Teranet,https://mdl.library.utoronto.ca/collections/geospatial-data/teranet-ontario-parcel-data-3,Disc 2 of 2
-028,Dynamap Canada - Documentation,Geographic Data Technology (GDT),https://mdl.library.utoronto.ca/collections/geospatial-data/dynamap-canada-canada-nation-tile,"See also CD # 022, 024 & 029"
-029,Dynamap Canada - Census Enumeration Areas,Geographic Data Technology (GDT),https://mdl.library.utoronto.ca/collections/geospatial-data/dynamap-canada-canada-nation-tile,"See also CD # 022, 024 & 028"
-030,"City of London, Ontario, Digital Mapping CD",City of London,https://mdl.library.utoronto.ca/collections/geospatial-data/city-london-ontario-digital-mapping-cd-1,
-031,Historic Parishes of England and Wales - Documentation,"Kain, R.J. and R.R. Oliver",https://mdl.library.utoronto.ca/collections/geospatial-data/historic-parishes-england-and-wales,Disc 1 of 9
-032,Historic Parishes of England and Wales - Sheets 64-90,"Kain, R.J. and R.R. Oliver",https://mdl.library.utoronto.ca/collections/geospatial-data/historic-parishes-england-and-wales,Disc 2 of 9
-033,Historic Parishes of England and Wales - Sheets 91-103,"Kain, R.J. and R.R. Oliver",https://mdl.library.utoronto.ca/collections/geospatial-data/historic-parishes-england-and-wales,Disc 3 of 9
-034,Historic Parishes of England and Wales - Sheets 104-118,"Kain, R.J. and R.R. Oliver",https://mdl.library.utoronto.ca/collections/geospatial-data/historic-parishes-england-and-wales,Disc 4 of 9
-035,Historic Parishes of England and Wales - Sheets 119-132,"Kain, R.J. and R.R. Oliver",https://mdl.library.utoronto.ca/collections/geospatial-data/historic-parishes-england-and-wales,Disc 5 of 9
-036,Historic Parishes of England and Wales - Sheets 133-147,"Kain, R.J. and R.R. Oliver",https://mdl.library.utoronto.ca/collections/geospatial-data/historic-parishes-england-and-wales,Disc 6 of 9
-037,Historic Parishes of England and Wales - Sheets 148-160,"Kain, R.J. and R.R. Oliver",https://mdl.library.utoronto.ca/collections/geospatial-data/historic-parishes-england-and-wales,Disc 7 of 9
-038,Historic Parishes of England and Wales - Sheets 161-175,"Kain, R.J. and R.R. Oliver",https://mdl.library.utoronto.ca/collections/geospatial-data/historic-parishes-england-and-wales,Disc 8 of 9
-039,Historic Parishes of England and Wales - Sheets 176-190,"Kain, R.J. and R.R. Oliver",https://mdl.library.utoronto.ca/collections/geospatial-data/historic-parishes-england-and-wales,Disc 9 of 9
-040,Mississauga Orthophoto Mosaic - 2003,Airborne Sensing Corporation,https://mdl.library.utoronto.ca/collections/air-photos/mississauga-orthophoto-mosaic,
-042,Toronto Orthophotos,Metro Toronto Land Information Services,https://mdl.library.utoronto.ca/collections/air-photos/toronto-orthophotos,"See also CD # 055, 056, 059"
-043,Goad Atlas of Toronto 1884 (Fire Insurance Plans),"Goad, Charles E.",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-fire-insurance-atlases-all-years/index,
-044,Goad Atlas of Toronto 1890 (Fire Insurance Plans),"Goad, Charles E.",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-fire-insurance-atlases-all-years/index,
-045,Goad Atlas of Toronto 1892 (Fire Insurance Plans),"Goad, Charles E.",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-fire-insurance-atlases-all-years/index,
-046,Goad Atlas of Toronto 1893 (Fire Insurance Plans),"Goad, Charles E.",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-fire-insurance-atlases-all-years/index,
-047,Goad Atlas of Toronto 1899 (Fire Insurance Plans),"Goad, Charles E.",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-fire-insurance-atlases-all-years/index,
-048,Goad Atlas of Toronto 1910 (Fire Insurance Plans),"Goad, Charles E.",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-fire-insurance-atlases-all-years/index,
-049,Canada. Cities. Census Tracts. 1971 & 1981.,Statistics Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/canada-cities-census-tracts-1971-1981,
-050,Geographical Information Systems,"Longley, P.A. & M.Goodchild, D. McGuire & D.Rhind",https://mdl.library.utoronto.ca/collections/geospatial-data/geographical-information-systems,
-051,Northwest Territories Digital Atlas,World Wildlife Fund (Canada),https://mdl.library.utoronto.ca/collections/geospatial-data/northwest-territories-digital-atlas,
-051,Census of Canada Geography Files,Statistics Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/census-canada-geography-files-5,
-052,ArcUSA 1:2M,Environmental Systems Research Institute INC.,https://mdl.library.utoronto.ca/collections/geospatial-data/arcusa-12m,
-055,Toronto Orthophotos - Replacement for CD 55K and 55L,Metro Toronto Land Information Services,https://mdl.library.utoronto.ca/collections/air-photos/toronto-orthophotos,"See also CD # 042, 056, 059"
-056,Toronto Orthophotos - Volume 1,Metro Toronto Land Information Services,https://mdl.library.utoronto.ca/collections/air-photos/toronto-orthophotos,"See also CD # 042, 055, 059"
-057,OMAFRA Ontario Soil Data - shapefile,"Map & Data Library, University of Toronto",https://mdl.library.utoronto.ca/collections/geospatial-data/omafra-ontario-soil-data,
-058,OMAFRA Ontario Soil Data - E00 file and documentation,"Map & Data Library, University of Toronto",https://mdl.library.utoronto.ca/collections/geospatial-data/omafra-ontario-soil-data,
-059,Toronto Orthophotos - GEO-TIF 50H,Metro Toronto Land Information Services,https://mdl.library.utoronto.ca/collections/air-photos/toronto-orthophotos,"See also CD # 042, 055, 056"
-060,Softmap Ontario topo50 - Vol. 1 - Southern Ontario,Softmap and Natural Resources Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/softmap-ontario-topo50,
-061,Softmap Ontario topo50 - Vol. 2 - Upper Ontario East,Softmap and Natural Resources Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/softmap-ontario-topo50-0,
-062,Softmap Ontario topo50 - Vol. 3 Lake Superior North,Softmap and Natural Resources Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/softmap-ontario-topo50-1,
-063,Softmap Ontario topo50 - Vol. 4 Upper Ontario West,Softmap and Natural Resources Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/softmap-ontario-topo50-2,
-064,Softmap Canada topo250,Softmap and Natural Resources Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/softmap-canada-topo250,
-065,Toronto Property Boundaries,Land Information Toronto,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-property-boundaries,
-066,Toronto Centreline,Land Information Toronto,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-centreline-1,
-067,Toronto Centreline - 1997 Orthophotos,Land Information Toronto,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-centreline-1,
-068,Toronto Centreline - Property Data,Land Information Toronto,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-centreline-1,
-070,Hamilton Orthophotos - Index,City of Hamilton,https://mdl.library.utoronto.ca/collections/air-photos/hamilton-orthophotos,Disc 1 of 8
-071,Hamilton Orthophotos - 2,City of Hamilton,https://mdl.library.utoronto.ca/collections/air-photos/hamilton-orthophotos,Disc 2 of 8
-072,Hamilton Orthophotos - 3,City of Hamilton,https://mdl.library.utoronto.ca/collections/air-photos/hamilton-orthophotos,Disc 3 of 8
-073,Hamilton Orthophotos - 4,City of Hamilton,https://mdl.library.utoronto.ca/collections/air-photos/hamilton-orthophotos,Disc 4 of 8
-074,Hamilton Orthophotos - 5,City of Hamilton,https://mdl.library.utoronto.ca/collections/air-photos/hamilton-orthophotos,Disc 5 of 8
-075,Hamilton Orthophotos - 6,City of Hamilton,https://mdl.library.utoronto.ca/collections/air-photos/hamilton-orthophotos,Disc 6 of 8
-076,Hamilton Orthophotos - 7,City of Hamilton,https://mdl.library.utoronto.ca/collections/air-photos/hamilton-orthophotos,Disc 7 of 8
-077,Hamilton Orthophotos - 8,City of Hamilton,https://mdl.library.utoronto.ca/collections/air-photos/hamilton-orthophotos,Disc 8 of 8
-078,City of Toronto Land Information,City of Toronto,https://mdl.library.utoronto.ca/collections/geospatial-data/city-toronto-land-information,
-079,National Topographic Services 30M5 & 30M12,National topographic Services,No URL,1:63360; 1909-1931
-080,National Topographic Services 30M11 & 30M12,National topographic Services,No URL,1:63360; 1909-1931
-081,Hydat,Earthinfo,https://mdl.library.utoronto.ca/collections/geospatial-data/hydat-0,
-082,Tectonic Map of North America,W.R. Muehlberger,https://mdl.library.utoronto.ca/collections/geospatial-data/tectonic-map-north-america,
-083,British Columbia Forest Fire Historical Data,British Columbia Fire Service - Government of British Columbia,https://mdl.library.utoronto.ca/collections/geospatial-data/british-columbia-forest-fire-historical-data,
-084,Grand River Conservation Authority - Fall 2002,Grand River Conservation Authority,https://mdl.library.utoronto.ca/collections/geospatial-data/grand-river-conservation-authority-2 ,
-085,Grand River Conservation Authority - February 2002,Grand River Conservation Authority,https://mdl.library.utoronto.ca/collections/geospatial-data/grand-river-conservation-authority-2 ,
-086,Grand River Conservation Authority - January 2003,Grand River Conservation Authority,https://mdl.library.utoronto.ca/collections/geospatial-data/grand-river-conservation-authority-3,
-087,Grand River Conservation Authority - June 2003,Grand River Conservation Authority,https://mdl.library.utoronto.ca/collections/geospatial-data/grand-river-conservation-authority-0,
-088,Algonquin Park Forest Resource Inventory,Ontario Ministry of Natural Resources (OMNR),https://mdl.library.utoronto.ca/collections/geospatial-data/algonquin-park-forest-resource-inventory,
-089,Canadian Daily Climate Data: Temperature and Precipitation - Eastern Canada 2000,Environment Canada - Climate and Water Products Division,https://mdl.library.utoronto.ca/collections/geospatial-data/canadian-daily-climate-data-temperature-and-precipitation-0,
-090,Canadian Daily Climate Data: Temperature and Precipitation - Western Canada 2000,Environment Canada - Climate and Water Products Division,https://mdl.library.utoronto.ca/collections/geospatial-data/canadian-daily-climate-data-temperature-and-precipitation-0,
-091,Canadian Monthly Climate Data and 1961-1990 Normals,Environment Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/canadian-monthly-climate-data-and-1961-1990-normals,
-092,Digital Ocean Electronic Charts -  Kingston-Montreal,NDI Canadian Hydgrophic Service (CHS),https://mdl.library.utoronto.ca/collections/geospatial-data/digital-ocean-electronic-charts-0,
-093,Digital Ocean Electronic Charts -  Lake Ontario,NDI Canadian Hydgrophic Service (CHS),https://mdl.library.utoronto.ca/collections/geospatial-data/digital-ocean-electronic-charts,
-094,Softmap Quebec topo250,Softmap and Natural Resources Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/softmap-quebec-topo250,
-095,Significant Ecological Area Digital Data,Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/significant-ecological-area-digital-data,
-097,Europe Complete Global Maps,GFK Macon Global Maps,https://mdl.library.utoronto.ca/collections/geospatial-data/europe-complete-global-maps,
-098,ArcWorld,ESRI,https://mdl.library.utoronto.ca/collections/geospatial-data/arcworld,
-099,General Bathymetric Chart of the Oceans (GEBCO),British Oceanographic Data Centre,https://mdl.library.utoronto.ca/collections/geospatial-data/general-bathymetric-chart-oceans-gebco-0,With accompanying text
-100,"Goad's Atlas 1884, 1890, 1899, 1910 (rect. by cart.)","Goad, Charles E.",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-fire-insurance-atlases-all-years/index ,
-101,RADARSAT International Images of Toronto - 9901094008,RADARSAT International,https://mdl.library.utoronto.ca/collections/air-photos/radarsat-international-images-toronto,Disc 1 of 6
-102,RADARSAT International Images of Toronto - 9901094009,RADARSAT International,https://mdl.library.utoronto.ca/collections/air-photos/radarsat-international-images-toronto,Disc 2 of 6
-103,RADARSAT International Images of Toronto - 9901177002,RADARSAT International,https://mdl.library.utoronto.ca/collections/air-photos/radarsat-international-images-toronto,Disc 3 of 6
-104,RADARSAT International Images of Toronto - 9901177003,RADARSAT International,https://mdl.library.utoronto.ca/collections/air-photos/radarsat-international-images-toronto,Disc 4 of 6
-105,RADARSAT International Images of Toronto - 9901094007,RADARSAT International,https://mdl.library.utoronto.ca/collections/air-photos/radarsat-international-images-toronto,Disc 5 of 6
-106,RADARSAT International Images of Toronto - 9901177001,RADARSAT International,https://mdl.library.utoronto.ca/collections/air-photos/radarsat-international-images-toronto,Disc 6 of 6
-107,Noms et Lieux du Quebec,Gouvernment du Quebec. Commission de Toponymie.,https://mdl.library.utoronto.ca/collections/geospatial-data/noms-et-lieux-du-quebec,
-108,OMNI Gazetteer of the United States of America,OMNI Graphics Inc.,https://mdl.library.utoronto.ca/collections/geospatial-data/omni-gazetteer-united-states-america,
-109,Image of the World : An interactive exploration of ten historic world maps,"Karen Brookfield, The British Library",https://mdl.library.utoronto.ca/collections/geospatial-data/image-world-interactive-exploration-ten-historic-world-maps,
-110,Satellite Image Gallery,Intermountain Digital Mapping,https://mdl.library.utoronto.ca/collections/air-photos/satellite-image-gallery,
-111,Geographica,Random House Australia,https://mdl.library.utoronto.ca/collections/geospatial-data/geographica,
-112,New Millenium World Atlas Deluxe,Rand McNally,https://mdl.library.utoronto.ca/collections/geospatial-data/new-millennium-world-atlas-deluxe,
-113,Systeme d'information sur le territoire de la partie agricole du bassin versant de la riviere l'Assomption,"Ministere de L'Environnement de la Faune du Quebec, Service de la Cartographie Ecologique",https://mdl.library.utoronto.ca/collections/geospatial-data/systeme-dinformation-sur-le-territoire-de-la-partie-agricole-du-bassin,
-114,Systeme d'information sur le territoire du bassin versant de la riviere Saint Charles,Environnement et Faune Quebec,https://mdl.library.utoronto.ca/collections/geospatial-data/systeme-dinformation-sur-le-territoire-du-bassin-versant-de-la-riviere,
-115,GEONAME,GDE Systems Inc.,https://mdl.library.utoronto.ca/collections/geospatial-data/geoname,
-116,Canadian Monthly Climate Data and 1961-1990 Normals - copy 2,Environment Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/canadian-monthly-climate-data-and-1961-1990-normals,See also CD # 091
-117,Winnipeg. Census Enumeration Areas. 1981.,Statistics Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/winnipeg-census-enumeration-areas-1981,
-118,York Region,York Region Geomatics Division,https://mdl.library.utoronto.ca/collections/geospatial-data/york-region-0,
-119,Soils - Southern Ontario,Ontario Ministry of Agriculture and Food (OMAFRA),https://mdl.library.utoronto.ca/collections/geospatial-data/soils-southern-ontario-0,
-120,Hydat - 2001,Earthinfo,https://mdl.library.utoronto.ca/collections/geospatial-data/hydat-1,
-121,Bathymetry of Lake Michigan,National Geophysical Data Center (NGDC),"https://mdl.library.utoronto.ca/collections/geospatial-data/bathymetry-lake-michigan
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106365100606196",
-122,Bathymetry of Lake Erie and Lake Saint Clair,National Geophysical Data Center (NGDC),https://mdl.library.utoronto.ca/collections/geospatial-data/bathymetry-lake-erie-and-lake-saint-clair,
-123,Bathymetry of Lake Ontario,National Geophysical Data Center (NGDC),"https://mdl.library.utoronto.ca/collections/geospatial-data/bathymetry-lake-ontario
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106464566506196",
-124,Global GIS Database: Europe,United State Geological Survey (USGS),https://mdl.library.utoronto.ca/collections/geospatial-data/global-gis-database-europe,
-125,Global GIS North America,United State Geological Survey (USGS),https://mdl.library.utoronto.ca/collections/geospatial-data/global-gis-north-america,
-126,Global GIS Database: North Eurasia,United State Geological Survey (USGS),https://mdl.library.utoronto.ca/collections/geospatial-data/global-gis-database-north-eurasia,
-127,Softmap Quebec topo20,Softmap and Province du Québec,https://mdl.library.utoronto.ca/collections/geospatial-data/softmap-quebec-topo20,
-128,Multimedia Cartography,"Cartwright, W; M. Peterson, G. Gartner","https://mdl.library.utoronto.ca/collections/geospatial-data/multimedia-cartography
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106768531106196",
-129,Nicaragua An Historical Atlas,Coleccion Cultural de Centro America,https://mdl.library.utoronto.ca/collections/geospatial-data/nicaragua-historical-atlas,
-130,Inside ArcView GIS 8.3,"Hutchinson, Scott","https://mdl.library.utoronto.ca/collections/geospatial-data/inside-arcview-gis-83
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991105973911006196",
-131,Comunidad Valenciana,Ariel,https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106332416206196,
-132,Inside MapInfo Professional,"Daniel, L, P. Loree, A. Whitener","https://mdl.library.utoronto.ca/collections/geospatial-data/inside-mapinfo-professional
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106753441206196",
-133-1,"Toronto Property Data Maps (PDMs) - South, West, Index","Work & Emergency Services, City of Toronto",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-property-data-maps-pdms-7,Disc 2 of 2
-133-2,"Toronto Property Data Maps (PDMs) - East, North, Index","Work & Emergency Services, City of Toronto",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-property-data-maps-pdms-7,Disc 1 of 2
-134,Magyarorszag Hungary,Cartographia Kft,https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106686672606196 ,
-135,"Osterreich 1:150,000 [Great Road Atlas]",Freytag & Berndt,https://mdl.library.utoronto.ca/collections/geospatial-data/osterreich-1150000-great-road-atlas,
-136,Klimaatlas Bundesrepublik Deutschland,Deutscher Wetterdienst,"https://mdl.library.utoronto.ca/collections/geospatial-data/klimaatlas-bundesrepublik-deutschland
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991105915688806196",
-137,Arc Hydro GIS for Water Resources,ESRI Press,"https://mdl.library.utoronto.ca/collections/geospatial-data/arc-hydro-gis-water-resources
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106416998306196",
-138,Hydrologischer Atlas von Deutschland,Federal Institute for Hydrology,"https://mdl.library.utoronto.ca/collections/geospatial-data/hydrologischer-atlas-von-deutschland
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106332409906196",
-139,Interaktivni Atlas Slovenije,Unknown,https://mdl.library.utoronto.ca/collections/geospatial-data/interaktivni-atlas-slovenije,
-140,Undersea with GIS,ESRI Press,"https://mdl.library.utoronto.ca/collections/geospatial-data/undersea-gis
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106417228806196",
-141,Atlante Storico Multimediale di Bologna 1. Dagli Etruschi al Duecento,"Bocchi, Francesca","https://mdl.library.utoronto.ca/collections/geospatial-data/atlante-storico-multimediale-di-bologna-1-dagli-etruschi-al-duecento
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106332416706196",
-142,Introducing Arcview GIS,ESRI,https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991105943577906196,Contains data for tutorials
-143,Forest Management Units,Ontario Ministry of Natural Resources - OMNR,https://mdl.library.utoronto.ca/collections/geospatial-data/forest-management-units,
-144,ArcAtlas: Our Earth,ESRI,https://mdl.library.utoronto.ca/collections/geospatial-data/arcatlas-our-earth,
-146,Iran. Native Topographic Maps.,OMNI Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/iran-native-topographic-maps,
-147,Chicago Map,Rand McNally,"No URL
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106751614106196",
-148,Edmonton. Census Enumeration Areas. 1981.,Statistics Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/edmonton-census-enumeration-areas-1981,
-149,1880 York County Maps,Unknown,No URL,"3 maps: North, SE, SWD (and 3 rectified maps)"
-150,Atlas de la Poblacion Espanola,"Resques Velasco, Pedro E.","https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-de-la-poblacion-espanola
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106197757306196",
-151,ArcView GIS Exercise Book [Companion CD],"Hohl, Pat","https://mdl.library.utoronto.ca/collections/geospatial-data/arcview-gis-exercise-book-companion-cd
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106757883406196",
-152,Toronto Aerial Photo 1965,Unknown,https://mdl.library.utoronto.ca/collections/air-photos/toronto-aerial-photo,
-153,"Getting to Know ArcGIS desktop : basics of ArcView, ArcEditor and ArcInfo","Ornsby,Tim","https://mdl.library.utoronto.ca/collections/geospatial-data/getting-know-arcgis-desktop-basics-arcview-arceditor-and-arcinfo
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106165433006196",
-154,Catalogue of Selected Regional Gravity and Magnetic Maps of Northern Alberta. Special Reprort 56.,Alberta Energy and Utilities Board. Alberta Geological Survey.,https://mdl.library.utoronto.ca/collections/geospatial-data/catalogue-selected-regional-gravity-and-magnetic-maps-northern-alberta,
-155,"Sand and Gravel Deposits with Aggregate Potential, Bitumount, Alberta NTS 74E Map 270",Alberta Energy and Utilities Board. Alberta Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/sand-and-gravel-deposits-aggregate-potential-bitumount-alberta-nts-74e,
-156,Surficial Geology of the Peerless Lake Area (NTS 84B),Alberta Energy and Utilities Board. Alberta Geological Survey.,https://mdl.library.utoronto.ca/collections/geospatial-data/surficial-geology-peerless-lake-area-nts-84b,
-157,"Orthorectified and Principal Component RADARSAT-1 Image Dataset for NTS 73M, Alberta",Alberta Energy and Utilities Board. Alberta Geological Survey.,https://mdl.library.utoronto.ca/collections/air-photos/orthorectified-and-principal-component-radarsat-1-image-dataset-nts-73m,Disc 1 of 2
-158,"Orthorectified and Principal Component RADARSAT-1 Image Dataset for NTS 73M, Alberta",Alberta Energy and Utilities Board. Alberta Geological Survey.,https://mdl.library.utoronto.ca/collections/air-photos/orthorectified-and-principal-component-radarsat-1-image-dataset-nts-73m,Disc 2 of 2
-159,Structural Interpretation of RADARSAT 1 Buffalo Head Hills Area,Alberta Energy and Utilities Board. Alberta Geological Survey.,https://mdl.library.utoronto.ca/collections/geospatial-data/structural-interpretation-radarsat-1-buffalo-head-hills-area,
-160,Digital Aeromagnetic Datasets for the Conterminous United States and Hawaii,United States Department of the Interior. U.S. Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/digital-aeromagnetic-datasets-conterminous-united-states-and-hawaii,
-161,Southern Gawler Craton,Government of South Australia. Geological Survey.,https://mdl.library.utoronto.ca/collections/geospatial-data/southern-gawler-craton,
-162,Western Gawler Craton,South Australian Government. Geological Survey.,https://mdl.library.utoronto.ca/collections/geospatial-data/western-gawler-craton,
-163,Curnamona Province Geoscientific GIS Dataset,South Australian Government. Geological Survey.,https://mdl.library.utoronto.ca/collections/geospatial-data/curnamona-province-geoscientific-gis-dataset,
-164,Olary Region Geoscientific GIS,Government of South Australia. Geological Survey.,https://mdl.library.utoronto.ca/collections/geospatial-data/olary-region-geoscientific-gis,
-165,Kanmantoo Province GIS,Geological Survey of South Australia. Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/kanmantoo-province-gis,
-166,South Australia State MGA GIS Dataset,Geological Survey of South Australia,https://mdl.library.utoronto.ca/collections/geospatial-data/south-australia-state-mga-gis-dataset,
-167,Geological Map of the NT,"Dept. of Business, Industry & Resource Development",https://mdl.library.utoronto.ca/collections/geospatial-data/geological-map-nt,
-168,Northern Territory Geochemical Datasets,Northern Territory Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/northern-territory-geochemical-datasets,
-169,Quaternary Geology of Ontario Dataset 14,Ontario Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/quaternary-geology-ontario-dataset-14,
-170,Unpublished Geological Parish Plan Series,Geological Survey of Victoria. Natural Resources and Environment.,https://mdl.library.utoronto.ca/collections/geospatial-data/unpublished-geological-parish-plan-series,
-171,Miscellaneous Geological Maps & Goldfields Maps,Geological Survey of Victoria. Natural Resources & Environment.,https://mdl.library.utoronto.ca/collections/geospatial-data/miscellaneous-geological-maps-goldfields-maps,
-172,Magnetic Map of the NT,"Dept. of Business, Industry & Resource Development, Northern Territry Geological Survey",https://mdl.library.utoronto.ca/collections/geospatial-data/magnetic-map-nt,
-173,Published Geological Parish Plan Series,Natural Resources & Environment,https://mdl.library.utoronto.ca/collections/geospatial-data/published-geological-parish-plan-series,
-174,Synthese lithotectonique et Metallogenique de l'Orogene du Nouveau-Quebec (Fosse du Labrador),"Clark, Thomas & Robert Wares",https://mdl.library.utoronto.ca/collections/geospatial-data/synthese-lithotectonique-et-metallogenique-de-lorogene-du-nouveau-quebec,
-175,Lithotectonic & Metallogenic Synthesis of the New Quebec Orogen (Labrador Trough),"Clark, Thomas & Robert Wares",https://mdl.library.utoronto.ca/collections/geospatial-data/lithotectonic-metallogenic-synthesis-new-quebec-orogen-labrador-trough,
-176,CanMap Streetfiles Mississauga,DMTI Spatial Inc.,https://mdl.library.utoronto.ca/collections/geospatial-data/canmap-streetfiles-mississauga,
-177,Till Geochemistry of the Western Avalon Peninsula & Isthmus,"Batterson, M.J &amp; D.M. Taylor",https://mdl.library.utoronto.ca/collections/geospatial-data/till-geochemistry-western-avalon-peninsula-isthmus,
-178,"Wisconsin Potential Field Grids, Derivative Maps & Tectonic Interpretations","Daniels, David, S. Synder et al",https://mdl.library.utoronto.ca/collections/geospatial-data/wisconsin-potential-field-grids-derivative-maps-tectonic-interpretations,
-179,"City of London, Ontario, Digital Mapping CD",City of London,https://mdl.library.utoronto.ca/collections/geospatial-data/city-london-ontario-digital-mapping-cd-2,
-180,Introductory Remote Sensing Digital Image Processing and Applications,"Gibson, Paul J. & C.H. Power",https://mdl.library.utoronto.ca/collections/geospatial-data/introductory-remote-sensing-digital-image-processing-and-applications,
-181,Introduction to Geographic Information Systems,Kang-tsung Chang,"https://mdl.library.utoronto.ca/collections/geospatial-data/introduction-geographic-information-systems-0
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991105867400906196",
-182,ArcCanada (1997) - Schools & Libraries Edition,ESRI Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/arccanada-1997,
-183,"Chart 1. Symbols, Abbreviations, Terms",Canadian Hydrographic Service,https://mdl.library.utoronto.ca/collections/geospatial-data/chart-1-symbols-abbreviations-terms,
-184,GIS World GeoDirectoryCD 1997,GIS World Inc.,https://mdl.library.utoronto.ca/collections/geospatial-data/gis-world-geodirectorycd-1997,
-185,Serving Maps on the Internet,ESRI,"https://mdl.library.utoronto.ca/collections/geospatial-data/serving-maps-internet
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106092660406196",
-186,"GIS for Everyone , Exploring Your Neighbourhood and Your World with a Geographic Information System","Davis, David F.",https://mdl.library.utoronto.ca/collections/geospatial-data/gis-everyone-exploring-your-neighbourhood-and-your-world-geographic,
-187,Atlas Archaeologique de l Egypte,"Daressy, Georges","https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-archaeologique-de-l-egypte
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106697390006196",
-188,Getting to Know ArcGIS Desktop 2.0,ESRI,"https://mdl.library.utoronto.ca/collections/geospatial-data/getting-know-arcgis-desktop
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106625255806196",
-189,Geography MarkUp Language,"Lake, Ronald D. Burggraf et al",https://mdl.library.utoronto.ca/collections/geospatial-data/geography-markup-language,
-190,Atlas Vorkolonialer Gesellschaften,"Muller, Hans-Peter",https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106424594806196,"Written in German
+CD #,Title,Data producer/creator,Notes
+001,Geological Map of Canada,"Douglas, Robert John Wilson, Geological Survey of Canada",
+002,Digital Soil Map of the World and Derived Soil Properties,FAO and UNESCO,
+003,Global GIS Database: Digital Atlas of Africa,United States Geological Survey,
+004,Digital Cartographic Reference Base Ver 2.0,"Geomatics Office, Ontario Ministry of Transportation",
+005,Digital Cartographic Reference Base Ver 3.0,"Geomatics Office, Ontario Ministry of Transportation",
+006,Global GIS Database: Digital Atlas of South Asia,United States Geological Survey,
+007,Global GIS Database: Digital Atlas of South Pacific,United States Geological Survey,
+008,Global GIS Database: Digital Atlas of Central and South America,United States Geological Survey,
+009,Boulton Atlas of Toronto 1858,W.S. & H.C. Boulton.,
+010,Mapart Canada Street Locator,Mapart,
+011,Mapart Ontario Streets on CD-ROM,Mapart,
+012,Africa Data Sampler,World Conservation Monitoring Centre and Food and Agriculture Organization of the United Nations,With accompanying text
+013,Mapart Toronto & Area CD-ROM Atlas,Mapart,
+014,Gas & Power Infrastructure Map of Europe,"Andersen, Arthur",
+015,"Digital Elevation Model of the Greater Toronto Area, Southern Ontario Bathymetry","Natural Resources Canada, Geological Survey of Canada (Paquette, Russell, Moore, and Hinton)",
+016,ArcCanada (1999) - Schools & Libraries Edition 2.0,ESRI Canada Inc.,Disc 1 of 2
+017,ArcCanada (1999) - Schools & Libraries Edition 2.0,ESRI Canada Inc.,Disc 2 of 2
+018-1,Surficial Geology of Southern Toronto - (including Toronto),Ontario Geological Survey,Disc 1 of 2
+018-2,Surficial Geology of Southern Toronto - (including Toronto),Ontario Geological Survey,Disc 2 of 2
+019,Electoral Geography - Digital Boundary File of Federal Electoral Districts,Elections Canada,
+020,Toronto Region Conservation Authority,Toronto Region Conservation Authority,
+021,"Toronto Base Maps, Metro",Land Information Toronto,
+022,Dynmap Canada - ArcView Format,Geographic Data Technology (GDT),"See also CD # 024, 028 & 029"
+023,Digital Property Data Maps,City of Toronto,
+024,Dynamap Canada - Forward Sortation Area Boundaries,Geographic Data Technology (GDT),"See also CD # 022, 028 & 029"
+025,Montreal Orthophotos,Ministere des ressources naturelles du Quebec,
+026,"Teranet Ontario Parcel Data - Durham, Halton, Peel, Toronto, York",Teranet,Disc 1 of 2
+027,Teranet Ontario Parcel Data - Basic Reports,Teranet,Disc 2 of 2
+028,Dynamap Canada - Documentation,Geographic Data Technology (GDT),"See also CD # 022, 024 & 029"
+029,Dynamap Canada - Census Enumeration Areas,Geographic Data Technology (GDT),"See also CD # 022, 024 & 028"
+030,"City of London, Ontario, Digital Mapping CD",City of London,
+031,Historic Parishes of England and Wales - Documentation,"Kain, R.J. and R.R. Oliver",Disc 1 of 9
+032,Historic Parishes of England and Wales - Sheets 64-90,"Kain, R.J. and R.R. Oliver",Disc 2 of 9
+033,Historic Parishes of England and Wales - Sheets 91-103,"Kain, R.J. and R.R. Oliver",Disc 3 of 9
+034,Historic Parishes of England and Wales - Sheets 104-118,"Kain, R.J. and R.R. Oliver",Disc 4 of 9
+035,Historic Parishes of England and Wales - Sheets 119-132,"Kain, R.J. and R.R. Oliver",Disc 5 of 9
+036,Historic Parishes of England and Wales - Sheets 133-147,"Kain, R.J. and R.R. Oliver",Disc 6 of 9
+037,Historic Parishes of England and Wales - Sheets 148-160,"Kain, R.J. and R.R. Oliver",Disc 7 of 9
+038,Historic Parishes of England and Wales - Sheets 161-175,"Kain, R.J. and R.R. Oliver",Disc 8 of 9
+039,Historic Parishes of England and Wales - Sheets 176-190,"Kain, R.J. and R.R. Oliver",Disc 9 of 9
+040,Mississauga Orthophoto Mosaic - 2003,Airborne Sensing Corporation,
+042,Toronto Orthophotos,Metro Toronto Land Information Services,"See also CD # 055, 056, 059"
+043,Goad Atlas of Toronto 1884 (Fire Insurance Plans),"Goad, Charles E.",
+044,Goad Atlas of Toronto 1890 (Fire Insurance Plans),"Goad, Charles E.",
+045,Goad Atlas of Toronto 1892 (Fire Insurance Plans),"Goad, Charles E.",
+046,Goad Atlas of Toronto 1893 (Fire Insurance Plans),"Goad, Charles E.",
+047,Goad Atlas of Toronto 1899 (Fire Insurance Plans),"Goad, Charles E.",
+048,Goad Atlas of Toronto 1910 (Fire Insurance Plans),"Goad, Charles E.",
+049,Canada. Cities. Census Tracts. 1971 & 1981.,Statistics Canada,
+050,Geographical Information Systems,"Longley, P.A. & M.Goodchild, D. McGuire & D.Rhind",
+051,Northwest Territories Digital Atlas,World Wildlife Fund (Canada),
+051,Census of Canada Geography Files,Statistics Canada,
+052,ArcUSA 1:2M,Environmental Systems Research Institute INC.,
+055,Toronto Orthophotos - Replacement for CD 55K and 55L,Metro Toronto Land Information Services,"See also CD # 042, 056, 059"
+056,Toronto Orthophotos - Volume 1,Metro Toronto Land Information Services,"See also CD # 042, 055, 059"
+057,OMAFRA Ontario Soil Data - shapefile,"Map & Data Library, University of Toronto",
+058,OMAFRA Ontario Soil Data - E00 file and documentation,"Map & Data Library, University of Toronto",
+059,Toronto Orthophotos - GEO-TIF 50H,Metro Toronto Land Information Services,"See also CD # 042, 055, 056"
+060,Softmap Ontario topo50 - Vol. 1 - Southern Ontario,Softmap and Natural Resources Canada,
+061,Softmap Ontario topo50 - Vol. 2 - Upper Ontario East,Softmap and Natural Resources Canada,
+062,Softmap Ontario topo50 - Vol. 3 Lake Superior North,Softmap and Natural Resources Canada,
+063,Softmap Ontario topo50 - Vol. 4 Upper Ontario West,Softmap and Natural Resources Canada,
+064,Softmap Canada topo250,Softmap and Natural Resources Canada,
+065,Toronto Property Boundaries,Land Information Toronto,
+066,Toronto Centreline,Land Information Toronto,
+067,Toronto Centreline - 1997 Orthophotos,Land Information Toronto,
+068,Toronto Centreline - Property Data,Land Information Toronto,
+070,Hamilton Orthophotos - Index,City of Hamilton,Disc 1 of 8
+071,Hamilton Orthophotos - 2,City of Hamilton,Disc 2 of 8
+072,Hamilton Orthophotos - 3,City of Hamilton,Disc 3 of 8
+073,Hamilton Orthophotos - 4,City of Hamilton,Disc 4 of 8
+074,Hamilton Orthophotos - 5,City of Hamilton,Disc 5 of 8
+075,Hamilton Orthophotos - 6,City of Hamilton,Disc 6 of 8
+076,Hamilton Orthophotos - 7,City of Hamilton,Disc 7 of 8
+077,Hamilton Orthophotos - 8,City of Hamilton,Disc 8 of 8
+078,City of Toronto Land Information,City of Toronto,
+079,National Topographic Services 30M5 & 30M12,National topographic Services,1:63360; 1909-1931
+080,National Topographic Services 30M11 & 30M12,National topographic Services,1:63360; 1909-1931
+081,Hydat,Earthinfo,
+082,Tectonic Map of North America,W.R. Muehlberger,
+083,British Columbia Forest Fire Historical Data,British Columbia Fire Service - Government of British Columbia,
+084,Grand River Conservation Authority - Fall 2002,Grand River Conservation Authority,
+085,Grand River Conservation Authority - February 2002,Grand River Conservation Authority,
+086,Grand River Conservation Authority - January 2003,Grand River Conservation Authority,
+087,Grand River Conservation Authority - June 2003,Grand River Conservation Authority,
+088,Algonquin Park Forest Resource Inventory,Ontario Ministry of Natural Resources (OMNR),
+089,Canadian Daily Climate Data: Temperature and Precipitation - Eastern Canada 2000,Environment Canada - Climate and Water Products Division,
+090,Canadian Daily Climate Data: Temperature and Precipitation - Western Canada 2000,Environment Canada - Climate and Water Products Division,
+091,Canadian Monthly Climate Data and 1961-1990 Normals,Environment Canada,
+092,Digital Ocean Electronic Charts -  Kingston-Montreal,NDI Canadian Hydgrophic Service (CHS),
+093,Digital Ocean Electronic Charts -  Lake Ontario,NDI Canadian Hydgrophic Service (CHS),
+094,Softmap Quebec topo250,Softmap and Natural Resources Canada,
+095,Significant Ecological Area Digital Data,Ontario Ministry of Natural Resources,
+097,Europe Complete Global Maps,GFK Macon Global Maps,
+098,ArcWorld,ESRI,
+099,General Bathymetric Chart of the Oceans (GEBCO),British Oceanographic Data Centre,With accompanying text
+100,"Goad's Atlas 1884, 1890, 1899, 1910 (rect. by cart.)","Goad, Charles E.",
+101,RADARSAT International Images of Toronto - 9901094008,RADARSAT International,Disc 1 of 6
+102,RADARSAT International Images of Toronto - 9901094009,RADARSAT International,Disc 2 of 6
+103,RADARSAT International Images of Toronto - 9901177002,RADARSAT International,Disc 3 of 6
+104,RADARSAT International Images of Toronto - 9901177003,RADARSAT International,Disc 4 of 6
+105,RADARSAT International Images of Toronto - 9901094007,RADARSAT International,Disc 5 of 6
+106,RADARSAT International Images of Toronto - 9901177001,RADARSAT International,Disc 6 of 6
+107,Noms et Lieux du Quebec,Gouvernment du Quebec. Commission de Toponymie.,
+108,OMNI Gazetteer of the United States of America,OMNI Graphics Inc.,
+109,Image of the World : An interactive exploration of ten historic world maps,"Karen Brookfield, The British Library",
+110,Satellite Image Gallery,Intermountain Digital Mapping,
+111,Geographica,Random House Australia,
+112,New Millenium World Atlas Deluxe,Rand McNally,
+113,Systeme d'information sur le territoire de la partie agricole du bassin versant de la riviere l'Assomption,"Ministere de L'Environnement de la Faune du Quebec, Service de la Cartographie Ecologique",
+114,Systeme d'information sur le territoire du bassin versant de la riviere Saint Charles,Environnement et Faune Quebec,
+115,GEONAME,GDE Systems Inc.,
+116,Canadian Monthly Climate Data and 1961-1990 Normals - copy 2,Environment Canada,See also CD # 091
+117,Winnipeg. Census Enumeration Areas. 1981.,Statistics Canada,
+118,York Region,York Region Geomatics Division,
+119,Soils - Southern Ontario,Ontario Ministry of Agriculture and Food (OMAFRA),
+120,Hydat - 2001,Earthinfo,
+121,Bathymetry of Lake Michigan,National Geophysical Data Center (NGDC),
+122,Bathymetry of Lake Erie and Lake Saint Clair,National Geophysical Data Center (NGDC),
+123,Bathymetry of Lake Ontario,National Geophysical Data Center (NGDC),
+124,Global GIS Database: Europe,United State Geological Survey (USGS),
+125,Global GIS North America,United State Geological Survey (USGS),
+126,Global GIS Database: North Eurasia,United State Geological Survey (USGS),
+127,Softmap Quebec topo20,Softmap and Province du Québec,
+128,Multimedia Cartography,"Cartwright, W; M. Peterson, G. Gartner",
+129,Nicaragua An Historical Atlas,Coleccion Cultural de Centro America,
+130,Inside ArcView GIS 8.3,"Hutchinson, Scott",
+131,Comunidad Valenciana,Ariel,
+132,Inside MapInfo Professional,"Daniel, L, P. Loree, A. Whitener",
+133-1,"Toronto Property Data Maps (PDMs) - South, West, Index","Work & Emergency Services, City of Toronto",Disc 2 of 2
+133-2,"Toronto Property Data Maps (PDMs) - East, North, Index","Work & Emergency Services, City of Toronto",Disc 1 of 2
+134,Magyarorszag Hungary,Cartographia Kft,
+135,"Osterreich 1:150,000 [Great Road Atlas]",Freytag & Berndt,
+136,Klimaatlas Bundesrepublik Deutschland,Deutscher Wetterdienst,
+137,Arc Hydro GIS for Water Resources,ESRI Press,
+138,Hydrologischer Atlas von Deutschland,Federal Institute for Hydrology,
+139,Interaktivni Atlas Slovenije,Unknown,
+140,Undersea with GIS,ESRI Press,
+141,Atlante Storico Multimediale di Bologna 1. Dagli Etruschi al Duecento,"Bocchi, Francesca",
+142,Introducing Arcview GIS,ESRI,Contains data for tutorials
+143,Forest Management Units,Ontario Ministry of Natural Resources - OMNR,
+144,ArcAtlas: Our Earth,ESRI,
+146,Iran. Native Topographic Maps.,OMNI Resources,
+147,Chicago Map,Rand McNally,
+148,Edmonton. Census Enumeration Areas. 1981.,Statistics Canada,
+149,1880 York County Maps,Unknown,"3 maps: North, SE, SWD (and 3 rectified maps)"
+150,Atlas de la Poblacion Espanola,"Resques Velasco, Pedro E.",
+151,ArcView GIS Exercise Book [Companion CD],"Hohl, Pat",
+152,Toronto Aerial Photo 1965,Unknown,
+153,"Getting to Know ArcGIS desktop : basics of ArcView, ArcEditor and ArcInfo","Ornsby,Tim",
+154,Catalogue of Selected Regional Gravity and Magnetic Maps of Northern Alberta. Special Reprort 56.,Alberta Energy and Utilities Board. Alberta Geological Survey.,
+155,"Sand and Gravel Deposits with Aggregate Potential, Bitumount, Alberta NTS 74E Map 270",Alberta Energy and Utilities Board. Alberta Geological Survey,
+156,Surficial Geology of the Peerless Lake Area (NTS 84B),Alberta Energy and Utilities Board. Alberta Geological Survey.,
+157,"Orthorectified and Principal Component RADARSAT-1 Image Dataset for NTS 73M, Alberta",Alberta Energy and Utilities Board. Alberta Geological Survey.,Disc 1 of 2
+158,"Orthorectified and Principal Component RADARSAT-1 Image Dataset for NTS 73M, Alberta",Alberta Energy and Utilities Board. Alberta Geological Survey.,Disc 2 of 2
+159,Structural Interpretation of RADARSAT 1 Buffalo Head Hills Area,Alberta Energy and Utilities Board. Alberta Geological Survey.,
+160,Digital Aeromagnetic Datasets for the Conterminous United States and Hawaii,United States Department of the Interior. U.S. Geological Survey,
+161,Southern Gawler Craton,Government of South Australia. Geological Survey.,
+162,Western Gawler Craton,South Australian Government. Geological Survey.,
+163,Curnamona Province Geoscientific GIS Dataset,South Australian Government. Geological Survey.,
+164,Olary Region Geoscientific GIS,Government of South Australia. Geological Survey.,
+165,Kanmantoo Province GIS,Geological Survey of South Australia. Geological Survey,
+166,South Australia State MGA GIS Dataset,Geological Survey of South Australia,
+167,Geological Map of the NT,"Dept. of Business, Industry & Resource Development",
+168,Northern Territory Geochemical Datasets,Northern Territory Geological Survey,
+169,Quaternary Geology of Ontario Dataset 14,Ontario Geological Survey,
+170,Unpublished Geological Parish Plan Series,Geological Survey of Victoria. Natural Resources and Environment.,
+171,Miscellaneous Geological Maps & Goldfields Maps,Geological Survey of Victoria. Natural Resources & Environment.,
+172,Magnetic Map of the NT,"Dept. of Business, Industry & Resource Development, Northern Territry Geological Survey",
+173,Published Geological Parish Plan Series,Natural Resources & Environment,
+174,Synthese lithotectonique et Metallogenique de l'Orogene du Nouveau-Quebec (Fosse du Labrador),"Clark, Thomas & Robert Wares",
+175,Lithotectonic & Metallogenic Synthesis of the New Quebec Orogen (Labrador Trough),"Clark, Thomas & Robert Wares",
+176,CanMap Streetfiles Mississauga,DMTI Spatial Inc.,
+177,Till Geochemistry of the Western Avalon Peninsula & Isthmus,"Batterson, M.J &amp; D.M. Taylor",
+178,"Wisconsin Potential Field Grids, Derivative Maps & Tectonic Interpretations","Daniels, David, S. Synder et al",
+179,"City of London, Ontario, Digital Mapping CD",City of London,
+180,Introductory Remote Sensing Digital Image Processing and Applications,"Gibson, Paul J. & C.H. Power",
+181,Introduction to Geographic Information Systems,Kang-tsung Chang,
+182,ArcCanada (1997) - Schools & Libraries Edition,ESRI Canada,
+183,"Chart 1. Symbols, Abbreviations, Terms",Canadian Hydrographic Service,
+184,GIS World GeoDirectoryCD 1997,GIS World Inc.,
+185,Serving Maps on the Internet,ESRI,
+186,"GIS for Everyone , Exploring Your Neighbourhood and Your World with a Geographic Information System","Davis, David F.",
+187,Atlas Archaeologique de l Egypte,"Daressy, Georges",
+188,Getting to Know ArcGIS Desktop 2.0,ESRI,
+189,Geography MarkUp Language,"Lake, Ronald D. Burggraf et al",
+190,Atlas Vorkolonialer Gesellschaften,"Muller, Hans-Peter","Written in German
 Contains maps and texts"
-191,Digital Terrain Model of Southern Ontario - Dufferin,J.D. Barnes First Base Solutions,https://mdl.library.utoronto.ca/collections/geospatial-data/digital-terrain-model-southern-ontario-dufferin,
-192,Digital Terrain Model of Southern Ontario - Toronto,J.D. Barnes First Base Solutions,https://mdl.library.utoronto.ca/collections/geospatial-data/digital-terrain-model-southern-ontario-toronto,
-193,"Hungarian Village Finder, Atlas, and Gazetteer","Jimenez, Suzanne Somodi",https://mdl.library.utoronto.ca/collections/geospatial-data/hungarian-village-finder-atlas-and-gazetteer,
-194,"Transmed Atlas, Mediterranean Region from Crust to Mantle","Cavazza, W; F.M. Roure et al","https://mdl.library.utoronto.ca/collections/geospatial-data/transmed-atlas-mediterranean-region-crust-mantle
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106437545906196",
-195,Maps in the Atlases of the British Library,"Shirley, Rodney",https://mdl.library.utoronto.ca/collections/geospatial-data/maps-atlases-british-library,
-196,Population et developpement durable,"Peltre, Pierre",https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106151498306196,"Group of maps
+191,Digital Terrain Model of Southern Ontario - Dufferin,J.D. Barnes First Base Solutions,
+192,Digital Terrain Model of Southern Ontario - Toronto,J.D. Barnes First Base Solutions,
+193,"Hungarian Village Finder, Atlas, and Gazetteer","Jimenez, Suzanne Somodi",
+194,"Transmed Atlas, Mediterranean Region from Crust to Mantle","Cavazza, W; F.M. Roure et al",
+195,Maps in the Atlases of the British Library,"Shirley, Rodney",
+196,Population et developpement durable,"Peltre, Pierre","Group of maps
 Require Quicktime installed"
-197,Politischer Atlas der Schweiz/Daten und Karten Walen und Abstimmungen 1866-2004 /Atlas Politique de la Suisse,Office federal de la statistique,https://mdl.library.utoronto.ca/collections/geospatial-data/politischer-atlas-der-schweizdaten-und-karten-walen-und-abstimmungen,See also CD # 230
-198,Remote Sensing for Natural Resource Management & Environmental Monitoring Vol. 4.,"Susan L. Ustin, editor",https://mdl.library.utoronto.ca/collections/geospatial-data/remote-sensing-natural-resource-management-environmental-monitoring-vol,
-199,"City of London, Ontario, Digital Mapping CD - 2004",City of London,https://mdl.library.utoronto.ca/collections/geospatial-data/city-london-ontario-digital-mapping-cd-0,
-200,Global 30-Arc-Second Elevation Data (GTOPO30),USGS,https://mdl.library.utoronto.ca/collections/geospatial-data/global-30-arc-second-elevation-data-gtopo30,
-201,World Language Mapping System,Global Mapping International,https://mdl.library.utoronto.ca/collections/geospatial-data/world-language-mapping-system,
-202,Seamless Digital Chart of the World,Global Mapping International,https://mdl.library.utoronto.ca/collections/geospatial-data/seamless-digital-chart-world,
-203,Toronto Mono Viewer [TMV 2],City of Toronto Works and Emergency Services,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-mono-viewer-tmv-2,See also CD # 278 and 279
-204,Toronto Property Data Maps (PDMs) - 2004,"Works and Emergency Services, City of Toronto",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-property-data-maps-pdm-0,
-205,"GIS for Higher Education, Across the Campus and Around the World",ESRI,https://mdl.library.utoronto.ca/collections/geospatial-data/gis-higher-education-across-campus-and-around-world,
-206,Ontario Base Maps (OBM) - individual sheets - Zone 1017,Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/ontario-base-maps-obm-individual-sheets,Disc 1 of 3
-207,"Ontario Base Maps (OBM) - individual sheets -  Zone 1018, 2015, 2016",Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/ontario-base-maps-obm-individual-sheets,Disc 2 of 3
-208,Ontario Base Maps (OBM) - individual sheets - Zone 2017,Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/ontario-base-maps-obm-individual-sheets,Disc 3 of 3
-209,31DNE 1953 Bobcaygeon,Department of the Interior - National Topographic Series,No URL,Single sheet; scale 1:126720
-210,31DNW 1940 Orillia,Department of the Interior - National Topographic Series,No URL,Single sheet; scale 1:126720
-211,31DNW 1947 Orillia,Department of the Interior - National Topographic Series,No URL,Single sheet; scale 1:126720
-212,31ENE 1934 Algonquin,Department of the Interior - National Topographic Series,No URL,Single sheet; scale 1:126720
-213,31ENW 1932 Sunridge,Department of the Interior - National Topographic Series,No URL,Single sheet; scale 1:126720
-214,31ENW 1937 Sunridge,Department of the Interior - National Topographic Series,No URL,Single sheet; scale 1:126720
-215,31ENW 1953 Sunridge,Department of the Interior - National Topographic Series,No URL,Single sheet; scale 1:126720
-216,31ESE 1951 Haliburton,Department of the Interior - National Topographic Series,No URL,Single sheet; scale 1:126720
-217,31ESW 1929 Muskoka,Department of the Interior - National Topographic Series,No URL,Single sheet; scale 1:126720
-218,31ESW 1933 Muskoka,Department of the Interior - National Topographic Series,No URL,Single sheet; scale 1:126720
-219,31ESW 1937 Muskoka,Department of the Interior - National Topographic Series,No URL,Single sheet; scale 1:126720
-220,31ESW 1945 Muskoka,Department of the Interior - National Topographic Series,No URL,Unreadable CD
-221,31ESW 1956 Muskoka,Department of the Interior - National Topographic Series,No URL,Unreadable CD
-222,City of Waterloo,City of Waterloo,https://mdl.library.utoronto.ca/collections/geospatial-data/city-waterloo,
-223,City of Waterloo Aerial Photos 2005,City of Waterloo,https://mdl.library.utoronto.ca/collections/air-photos/city-waterloo-aerial-photos-2005,
-224,Census Data System,"Rees, Philip, David Martin, Paul Williamson",https://mdl.library.utoronto.ca/collections/geospatial-data/census-data-system,
-225,Berlin Potsdam und Umland Stadtplan CD Routing,Unknown,https://mdl.library.utoronto.ca/collections/geospatial-data/berlin-potsdam-und-umland-stadtplan-cd-routing,
-226,"City of London, Ontario, Digital Mapping CD - 2005",City of London,"https://mdl.library.utoronto.ca/collections/geospatial-data/city-london-ontario-digital-mapping-cd
-https://mdl.library.utoronto.ca/collections/geospatial-data/london-ont-shapefile-topos-and-orthophotos",
-227,Les Plans de Paris: Histoire d'une Capitale,"Pinon, Pierre",https://mdl.library.utoronto.ca/collections/geospatial-data/les-plans-de-paris-histoire-dune-capitale,
-228,Subartu X111 [also known as APUM],Stefano Anastasio,https://mdl.library.utoronto.ca/collections/geospatial-data/subartu-x111-also-known-apum,
-229,Petermann,Jan Smits,https://mdl.library.utoronto.ca/collections/geospatial-data/petermann,
-230,Politischer Atlas der Schweiz/Daten und Karten Walen und Abstimmungen 1866-2004 /Atlas Politique de la Suisse,Office federal de la statistique,https://mdl.library.utoronto.ca/collections/geospatial-data/politischer-atlas-der-schweizdaten-und-karten-walen-und-abstimmungen,See also CD # 197
-231,"Building Construction Dates Map, City of Toronto","Toronto Works Emergency Services, Survey Mapping Services",https://mdl.library.utoronto.ca/collections/geospatial-data/building-construction-dates-map-city-toronto,
-232,Census Mapper/Poverty in America,Amy K. Glasmeir,https://mdl.library.utoronto.ca/collections/geospatial-data/census-mapperpoverty-america,
-233,Goad's Atlas 1921-43 Pl.3-47A (Toronto),"Goad, Charles E.",https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries,
-234,Goad's Atlas 1921-43 Pl.48-79b (Toronto),"Goad, Charles E.",https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries,
-236,Toronto Zoning,City of Toronto,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-zoning ,
-237,Processing Digital Images in Geographic Information Systems,"Verbyla, David","https://mdl.library.utoronto.ca/collections/geospatial-data/processing-digital-images-geographic-information-systems
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106322156206196",
-238,Goad's Atlas1914-1,"Goad, Charles E.",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-fire-insurance-plans-index/index,in Vol. 1-3
-239,Goad's Atlas1914-2,"Goad, Charles E.",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-fire-insurance-plans-index/index,"in Vol. 4-9, 12"
-240,Quantitative Methods and Applications in GIS,"Wang, Fahui","https://mdl.library.utoronto.ca/collections/geospatial-data/quantitative-methods-and-applications-gis
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106005765306196",
-241,ArcGIS and the Digital City: A Hands on Approach for Local Government with CDROM,"Huxhold, William & E. Fowler, B. Parr","https://mdl.library.utoronto.ca/collections/geospatial-data/arcgis-and-digital-city-hands-approach-local-government-cdrom
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991105900384206196",
-242,Inside AutoCAD Map 2000,"Vance, D; R. Eisenberg & D. Walsh","https://mdl.library.utoronto.ca/collections/geospatial-data/inside-autocad-map-2000
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106458612806196",
-243,Introduction to Geographic Information Systems,Kang-tsung Chang,"https://mdl.library.utoronto.ca/collections/geospatial-data/introduction-geographic-information-systems
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106194464806196",
-244,Fire Insurance 1952 V.1 Pl.22-6,Underwriter's Survey Bureau Ltd,https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries,
-245,Fire Insurance 1952 V.1 Pl.22-7-49,Underwriter's Survey Bureau Ltd,https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries,
-246,Fire Insurance 1952 V.1 Pl.50-72,Underwriter's Survey Bureau Ltd,https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries,
-247,Fire Insurance 1952 V.1 Pl.73-79-2,Underwriter's Survey Bureau Ltd,https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries,
-248,Land Information Ontario - Zone 16 & 17N,Ontario Ministry of Northern Development and Mines,https://mdl.library.utoronto.ca/collections/geospatial-data/land-information-ontario-1,
-249,Land Information Ontario - Zone 16 & 18,Ontario Ministry of Northern Development and Mines,https://mdl.library.utoronto.ca/collections/geospatial-data/land-information-ontario-1,
-250,Land Information Ontario - Zone 17S,Ontario Ministry of Northern Development and Mines,https://mdl.library.utoronto.ca/collections/geospatial-data/land-information-ontario-1,
-251,Bedrock Geology of Ontario,Ontario Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/bedrock-geology-ontario,
-252,City of London Mapping Data Distribution - 2006,City of London (Ontario),"https://mdl.library.utoronto.ca/collections/geospatial-data/city-london-mapping-data-distribution
-https://mdl.library.utoronto.ca/collections/geospatial-data/london-ont-shapefile-topos-and-orthophotos",
-253,Tectonic Assemblages of Ontario Seamless Coverage,Ontario Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/tectonic-assemblages-ontario-seamless-coverage,
-254,Township and Unorganized Area Fabric for Ontario,Ontario Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/township-and-unorganized-area-fabric-ontario-0,
-255,"Topographic Base, Seamless Coverage of the Province of Ontario - 1993",Ontario Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/topographic-base-seamless-coverage-province-ontario,
-256,Urban Infrastructure and Urban Growth in the Toronto Region 1950s to the 1990s,Richard White,"https://mdl.library.utoronto.ca/collections/geospatial-data/urban-infrastructure-and-urban-growth-toronto-region-1950s-1990s
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106377042706196",
-257,Hamilton GIS Data,City of Hamilton,https://mdl.library.utoronto.ca/collections/geospatial-data/hamilton-gis-data,
-258,Hamilton Ortho Imagery - Central,City of Hamilton,https://mdl.library.utoronto.ca/collections/air-photos/hamilton-ortho-imagery,Disc 1 of 2
-259,"Hamilton Ortho Imagery - North, South",City of Hamilton,https://mdl.library.utoronto.ca/collections/air-photos/hamilton-ortho-imagery,Disc 2 of 2
-260,Toronto Fire Insurance Plans 1959-73,,https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries,
-261,Township and Unorganized Area Fabric for Ontario - 2004,Ontario Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/township-and-unorganized-area-fabric-ontario,
-262,Bedrock Geology of Ontario Seamless Coverage,Ontario Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/bedrock-geology-ontario-seamless-coverage,
-263,"Topographic Base, Seamless Coverage of the Province of Ontario - 1993",Ontario Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/topographic-base-seamless-coverage-province-ontario,
-264,Tectonic Assemblages of Ontario Seamless Coverage,Ontario Geological Survey,https://mdl.library.utoronto.ca/collections/geospatial-data/tectonic-assemblages-ontario-seamless-coverage,
-265,Land Information Ontario - Wooded Area 2006,Ontario Ministry of Natural Resources (OMNR),https://mdl.library.utoronto.ca/collections/geospatial-data/wooded-area,
-266,Teranet - Ontario Parcel Data,Teranet,https://mdl.library.utoronto.ca/collections/geospatial-data/teranet-ontario-parcel-data-2,See also CD # 297
-267,Programming ArcObjects with VBA A Task Oriented Approach,Kang-Tsung Chang,https://mdl.library.utoronto.ca/collections/geospatial-data/programming-arcobjects-vba-task-oriented-approachhttps://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106321853106196,
-268,Historical Atlas of Islam,"Kennedy, Hugh","https://mdl.library.utoronto.ca/collections/geospatial-data/historical-atlas-islam
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/10o42ki/alma991105851501706196",
-269,Getting to Know ARCObjects Programming ArcGIS with VBA,"Burke, Robert",https://mdl.library.utoronto.ca/collections/geospatial-data/getting-know-arcobjects-programming-arcgis-vba,
-270,Digital Terrain Models of Southern Ontario - Toronto Supplement,J.D. Barnes,https://mdl.library.utoronto.ca/collections/geospatial-data/digital-terrain-models-southern-ontario-toronto-supplement,
-271,Toronto Property Data Maps (PDMs) - PDFs 2007,"Works and Emergency Services, City of Toronto",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-property-data-maps-pdms-4,
-272,Toronto Property Data Maps (PDMs) - DWG 2006,"Works and Emergency Services, City of Toronto",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-property-data-maps-pdms-4,
-273,Geological Survey of Queensland - No. 8,"Natural Resources and Mine, Queensland",https://mdl.library.utoronto.ca/collections/geospatial-data/geological-survey-queensland,
-274,Geological Survey of Queensland - No. 9,"Natural Resources and Mine, Queensland",https://mdl.library.utoronto.ca/collections/geospatial-data/geological-survey-queensland,
-275,"Geological Survey of Queensland - No. 10,11","Natural Resources and Mine, Queensland",https://mdl.library.utoronto.ca/collections/geospatial-data/geological-survey-queensland,
-276,Geological Survey of Queensland - No. 12,"Natural Resources and Mine, Queensland",https://mdl.library.utoronto.ca/collections/geospatial-data/geological-survey-queensland,
-277,Digital Electoral Districts and Polling Divisions,Elections Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/digital-electoral-districts-and-polling-divisions,
-278,Toronto Mono Viewer [TMV 2] - March 2007 Update,City of Toronto Works and Emergency Services,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-mono-viewer-tmv-2,See also CD # 203 and 279
-279,Toronto Mono Viewer [TMV 2] - March 2007 Update,City of Toronto Works and Emergency Services,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-mono-viewer-tmv-2,See also CD # 203 and 278
-280,Toronto Property Data Maps (PDMs) - UTM CAD + Shapefile,"Works and Emergency Services, City of Toronto",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-property-data-maps-pdms-4,
-281,Virtual Reality in Geography,"Fisher, Peter & D. Unwin (ed)","https://mdl.library.utoronto.ca/collections/geospatial-data/virtual-reality-geography
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106114935006196",
-282,Atlas Ilustrado de Los Pueblos de Indios Nueva Espana 1800,Tanck de Estrada,"https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-ilustrado-de-los-pueblos-de-indios-nueva-espana-1800
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106437762906196",
-283,Les Villes Nouvelles atlas Statistique 1968-1999,Insee & Hevne,https://mdl.library.utoronto.ca/collections/geospatial-data/les-villes-nouvelles-atlas-statistique-1968-1999,
-284,Burlington GIS Dataset and Air Photos - DTM,City of Burlington,https://mdl.library.utoronto.ca/collections/geospatial-data/burlington-gis-dataset-and-air-photos,
-285,Burlington GIS Dataset and Air Photos - 2005 MrSid,City of Burlington,https://mdl.library.utoronto.ca/collections/geospatial-data/burlington-gis-dataset-and-air-photos,
-286,Former City of Toronto Zoning By-laws Office Consolidations - 2007,City of Toronto Planning Department,https://mdl.library.utoronto.ca/collections/geospatial-data/former-city-toronto-zoning-laws-office-consolidations,
-287,Remote Sensing in Archaeology,"Johnson, Jay K.","https://mdl.library.utoronto.ca/collections/geospatial-data/remote-sensing-archaeology
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106202388806196",
-288,GIS for the Urban Environment,"Maantay, Julian and J. Ziegler","https://mdl.library.utoronto.ca/collections/geospatial-data/gis-urban-environment
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106760849506196",
-289,Goad FIP - Vol. 4-12,"Goad, Charles E.",https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries,"in Vol. 4-9, 12"
-290,"Goad FIP - Vol. 7, 8","Goad, Charles E.",https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries,"in Vol. 7, 8"
-291,Atlante Geografico Multimediale d'Italia,Unknown,"https://mdl.library.utoronto.ca/collections/geospatial-data/atlante-geografico-multimediale-ditalia
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106632693706196",
-292,Geological Atlas of Africa - 2006,"Schluter, Thomas",https://mdl.library.utoronto.ca/collections/geospatial-data/geological-atlas-africa,See also CD # 322
-293,Burlington GIS Dataset and Air Photos - Features,City of Burlington,https://mdl.library.utoronto.ca/collections/geospatial-data/burlington-gis-dataset-and-air-photos,
-294,Goad FIP- FIP Scans 1,"Goad, Charles E.",https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries,in Vol. 1-5
-295,Land Cover Classification System Classification Concepts and User Manual,"Di Gregorio, Antonio",https://mdl.library.utoronto.ca/collections/geospatial-data/land-cover-classification-system-classification-concepts-and-user-manual,
-296,Atlas of Antarctica,"Hertzfield, Christina","https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-antarctica
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106073542406196",
-297,Teranet - Ontario Parcel Data - York Update 2007,Teranet,https://mdl.library.utoronto.ca/collections/geospatial-data/teranet-ontario-parcel-data-2,See also CD # 266
-298,Population Atlas of Slovakia,Comenius University,https://mdl.library.utoronto.ca/collections/geospatial-data/population-atlas-slovakia,
-299,2003 Toronto Air Photos (Orthorectified) - 1,"City of Toronto, Works and Emergency Services",https://mdl.library.utoronto.ca/collections/geospatial-data/2003-toronto-air-photos-orthorectified,Disc 1 of 3
-300,2003 Toronto Air Photos (Orthorectified) - 2,"City of Toronto, Works and Emergency Services",https://mdl.library.utoronto.ca/collections/geospatial-data/2003-toronto-air-photos-orthorectified,Disc 2 of 3
-301,2003 Toronto Air Photos (Orthorectified) - 3,"City of Toronto, Works and Emergency Services",https://mdl.library.utoronto.ca/collections/geospatial-data/2003-toronto-air-photos-orthorectified,Disc 3 of 3
-302,Biodiversity Characterisation at Landscape Level in Western Ghats India using Satellite Remote Sensing and GIS,"Indian Institute of Remote Sensing, Dept. of Space, Govt. of India","https://mdl.library.utoronto.ca/collections/geospatial-data/biodiversity-characterisation-landscape-level-western-ghats-india-using
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106514743406196",
+197,Politischer Atlas der Schweiz/Daten und Karten Walen und Abstimmungen 1866-2004 /Atlas Politique de la Suisse,Office federal de la statistique,See also CD # 230
+198,Remote Sensing for Natural Resource Management & Environmental Monitoring Vol. 4.,"Susan L. Ustin, editor",
+199,"City of London, Ontario, Digital Mapping CD - 2004",City of London,
+200,Global 30-Arc-Second Elevation Data (GTOPO30),USGS,
+201,World Language Mapping System,Global Mapping International,
+202,Seamless Digital Chart of the World,Global Mapping International,
+203,Toronto Mono Viewer [TMV 2],City of Toronto Works and Emergency Services,See also CD # 278 and 279
+204,Toronto Property Data Maps (PDMs) - 2004,"Works and Emergency Services, City of Toronto",
+205,"GIS for Higher Education, Across the Campus and Around the World",ESRI,
+206,Ontario Base Maps (OBM) - individual sheets - Zone 1017,Ontario Ministry of Natural Resources,Disc 1 of 3
+207,"Ontario Base Maps (OBM) - individual sheets -  Zone 1018, 2015, 2016",Ontario Ministry of Natural Resources,Disc 2 of 3
+208,Ontario Base Maps (OBM) - individual sheets - Zone 2017,Ontario Ministry of Natural Resources,Disc 3 of 3
+209,31DNE 1953 Bobcaygeon,Department of the Interior - National Topographic Series,Single sheet; scale 1:126720
+210,31DNW 1940 Orillia,Department of the Interior - National Topographic Series,Single sheet; scale 1:126720
+211,31DNW 1947 Orillia,Department of the Interior - National Topographic Series,Single sheet; scale 1:126720
+212,31ENE 1934 Algonquin,Department of the Interior - National Topographic Series,Single sheet; scale 1:126720
+213,31ENW 1932 Sunridge,Department of the Interior - National Topographic Series,Single sheet; scale 1:126720
+214,31ENW 1937 Sunridge,Department of the Interior - National Topographic Series,Single sheet; scale 1:126720
+215,31ENW 1953 Sunridge,Department of the Interior - National Topographic Series,Single sheet; scale 1:126720
+216,31ESE 1951 Haliburton,Department of the Interior - National Topographic Series,Single sheet; scale 1:126720
+217,31ESW 1929 Muskoka,Department of the Interior - National Topographic Series,Single sheet; scale 1:126720
+218,31ESW 1933 Muskoka,Department of the Interior - National Topographic Series,Single sheet; scale 1:126720
+219,31ESW 1937 Muskoka,Department of the Interior - National Topographic Series,Single sheet; scale 1:126720
+220,31ESW 1945 Muskoka,Department of the Interior - National Topographic Series,Unreadable CD
+221,31ESW 1956 Muskoka,Department of the Interior - National Topographic Series,Unreadable CD
+222,City of Waterloo,City of Waterloo,
+223,City of Waterloo Aerial Photos 2005,City of Waterloo,
+224,Census Data System,"Rees, Philip, David Martin, Paul Williamson",
+225,Berlin Potsdam und Umland Stadtplan CD Routing,Unknown,
+226,"City of London, Ontario, Digital Mapping CD - 2005",City of London,
+227,Les Plans de Paris: Histoire d'une Capitale,"Pinon, Pierre",
+228,Subartu X111 [also known as APUM],Stefano Anastasio,
+229,Petermann,Jan Smits,
+230,Politischer Atlas der Schweiz/Daten und Karten Walen und Abstimmungen 1866-2004 /Atlas Politique de la Suisse,Office federal de la statistique,See also CD # 197
+231,"Building Construction Dates Map, City of Toronto","Toronto Works Emergency Services, Survey Mapping Services",
+232,Census Mapper/Poverty in America,Amy K. Glasmeir,
+233,Goad's Atlas 1921-43 Pl.3-47A (Toronto),"Goad, Charles E.",
+234,Goad's Atlas 1921-43 Pl.48-79b (Toronto),"Goad, Charles E.",
+236,Toronto Zoning,City of Toronto,
+237,Processing Digital Images in Geographic Information Systems,"Verbyla, David",
+238,Goad's Atlas1914-1,"Goad, Charles E.",in Vol. 1-3
+239,Goad's Atlas1914-2,"Goad, Charles E.","in Vol. 4-9, 12"
+240,Quantitative Methods and Applications in GIS,"Wang, Fahui",
+241,ArcGIS and the Digital City: A Hands on Approach for Local Government with CDROM,"Huxhold, William & E. Fowler, B. Parr",
+242,Inside AutoCAD Map 2000,"Vance, D; R. Eisenberg & D. Walsh",
+243,Introduction to Geographic Information Systems,Kang-tsung Chang,
+244,Fire Insurance 1952 V.1 Pl.22-6,Underwriter's Survey Bureau Ltd,
+245,Fire Insurance 1952 V.1 Pl.22-7-49,Underwriter's Survey Bureau Ltd,
+246,Fire Insurance 1952 V.1 Pl.50-72,Underwriter's Survey Bureau Ltd,
+247,Fire Insurance 1952 V.1 Pl.73-79-2,Underwriter's Survey Bureau Ltd,
+248,Land Information Ontario - Zone 16 & 17N,Ontario Ministry of Northern Development and Mines,
+249,Land Information Ontario - Zone 16 & 18,Ontario Ministry of Northern Development and Mines,
+250,Land Information Ontario - Zone 17S,Ontario Ministry of Northern Development and Mines,
+251,Bedrock Geology of Ontario,Ontario Geological Survey,
+252,City of London Mapping Data Distribution - 2006,City of London (Ontario),
+253,Tectonic Assemblages of Ontario Seamless Coverage,Ontario Geological Survey,
+254,Township and Unorganized Area Fabric for Ontario,Ontario Geological Survey,
+255,"Topographic Base, Seamless Coverage of the Province of Ontario - 1993",Ontario Geological Survey,
+256,Urban Infrastructure and Urban Growth in the Toronto Region 1950s to the 1990s,Richard White,
+257,Hamilton GIS Data,City of Hamilton,
+258,Hamilton Ortho Imagery - Central,City of Hamilton,Disc 1 of 2
+259,"Hamilton Ortho Imagery - North, South",City of Hamilton,Disc 2 of 2
+260,Toronto Fire Insurance Plans 1959-73,,
+261,Township and Unorganized Area Fabric for Ontario - 2004,Ontario Geological Survey,
+262,Bedrock Geology of Ontario Seamless Coverage,Ontario Geological Survey,
+263,"Topographic Base, Seamless Coverage of the Province of Ontario - 1993",Ontario Geological Survey,
+264,Tectonic Assemblages of Ontario Seamless Coverage,Ontario Geological Survey,
+265,Land Information Ontario - Wooded Area 2006,Ontario Ministry of Natural Resources (OMNR),
+266,Teranet - Ontario Parcel Data,Teranet,See also CD # 297
+267,Programming ArcObjects with VBA A Task Oriented Approach,Kang-Tsung Chang,
+268,Historical Atlas of Islam,"Kennedy, Hugh",
+269,Getting to Know ARCObjects Programming ArcGIS with VBA,"Burke, Robert",
+270,Digital Terrain Models of Southern Ontario - Toronto Supplement,J.D. Barnes,
+271,Toronto Property Data Maps (PDMs) - PDFs 2007,"Works and Emergency Services, City of Toronto",
+272,Toronto Property Data Maps (PDMs) - DWG 2006,"Works and Emergency Services, City of Toronto",
+273,Geological Survey of Queensland - No. 8,"Natural Resources and Mine, Queensland",
+274,Geological Survey of Queensland - No. 9,"Natural Resources and Mine, Queensland",
+275,"Geological Survey of Queensland - No. 10,11","Natural Resources and Mine, Queensland",
+276,Geological Survey of Queensland - No. 12,"Natural Resources and Mine, Queensland",
+277,Digital Electoral Districts and Polling Divisions,Elections Canada,
+278,Toronto Mono Viewer [TMV 2] - March 2007 Update,City of Toronto Works and Emergency Services,See also CD # 203 and 279
+279,Toronto Mono Viewer [TMV 2] - March 2007 Update,City of Toronto Works and Emergency Services,See also CD # 203 and 278
+280,Toronto Property Data Maps (PDMs) - UTM CAD + Shapefile,"Works and Emergency Services, City of Toronto",
+281,Virtual Reality in Geography,"Fisher, Peter & D. Unwin (ed)",
+282,Atlas Ilustrado de Los Pueblos de Indios Nueva Espana 1800,Tanck de Estrada,
+283,Les Villes Nouvelles atlas Statistique 1968-1999,Insee & Hevne,
+284,Burlington GIS Dataset and Air Photos - DTM,City of Burlington,
+285,Burlington GIS Dataset and Air Photos - 2005 MrSid,City of Burlington,
+286,Former City of Toronto Zoning By-laws Office Consolidations - 2007,City of Toronto Planning Department,
+287,Remote Sensing in Archaeology,"Johnson, Jay K.",
+288,GIS for the Urban Environment,"Maantay, Julian and J. Ziegler",
+289,Goad FIP - Vol. 4-12,"Goad, Charles E.","in Vol. 4-9, 12"
+290,"Goad FIP - Vol. 7, 8","Goad, Charles E.","in Vol. 7, 8"
+291,Atlante Geografico Multimediale d'Italia,Unknown,
+292,Geological Atlas of Africa - 2006,"Schluter, Thomas",See also CD # 322
+293,Burlington GIS Dataset and Air Photos - Features,City of Burlington,
+294,Goad FIP- FIP Scans 1,"Goad, Charles E.",in Vol. 1-5
+295,Land Cover Classification System Classification Concepts and User Manual,"Di Gregorio, Antonio",
+296,Atlas of Antarctica,"Hertzfield, Christina",
+297,Teranet - Ontario Parcel Data - York Update 2007,Teranet,See also CD # 266
+298,Population Atlas of Slovakia,Comenius University,
+299,2003 Toronto Air Photos (Orthorectified) - 1,"City of Toronto, Works and Emergency Services",Disc 1 of 3
+300,2003 Toronto Air Photos (Orthorectified) - 2,"City of Toronto, Works and Emergency Services",Disc 2 of 3
+301,2003 Toronto Air Photos (Orthorectified) - 3,"City of Toronto, Works and Emergency Services",Disc 3 of 3
+302,Biodiversity Characterisation at Landscape Level in Western Ghats India using Satellite Remote Sensing and GIS,"Indian Institute of Remote Sensing, Dept. of Space, Govt. of India",
 303,"Climate Atlas of the Atlantic Ocean Derived from the Comprehensive Ocean Atmospheric Data Set (COADS)
-","Lindau, Ralf.",https://mdl.library.utoronto.ca/collections/geospatial-data/climate-atlas-atlantic-ocean-derived-comprehensive-ocean-atmospheric,
-304,Exploring the urban community: a GIS approach,"Greene, Richard P.",https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106111043006196,Contains files to complete tutorial
-305,City of Brampton GIS Datasets and Air photos - 2007 Orthos,City of Brampton,https://mdl.library.utoronto.ca/collections/geospatial-data/city-brampton-gis-datasets-and-air-photos,"Orthos on CD, shapefiles online"
-306,City of Brampton GIS Datasets and Air photos - GIS files,City of Brampton,https://mdl.library.utoronto.ca/collections/geospatial-data/city-brampton-gis-datasets-and-air-photos,
-307,City of Mississauga GIS Datasets and Air photos - 2008,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-gis-datasets-and-air-photos-2008,See also CD # 307a
-307a,City of Mississauga GIS Datasets and Air photos - 2008 - Update,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-gis-datasets-and-air-photos-2008,See also CD # 307
-308,China Digital Maps,Gfk GeoMarketing,https://mdl.library.utoronto.ca/collections/geospatial-data/china-digital-maps,
-309,Thailand Digital Maps,Gfk GeoMarketing,https://mdl.library.utoronto.ca/collections/geospatial-data/thailand-digital-maps,
-310,Historical Air Photos Oshawa and Surrounding Area,Unknown,https://mdl.library.utoronto.ca/collections/air-photos/historical-air-photos-oshawa-and-surrounding-area,
-311,Topographic Layers Greater Toronto Area,Ontario Ministry of Natural Resources (OMNR),https://mdl.library.utoronto.ca/collections/geospatial-data/topographic-layers-greater-toronto-area,
-312,Historical Toronto Streets / Roads,"Marcel Fortin, University of Toronto Map and Data Library",https://mdl.library.utoronto.ca/collections/geospatial-data/historical-toronto-streets-roads,
-313,London (Ont) Shapefile topos and Orthophotos. - 2007,"City of London, Ont.",https://mdl.library.utoronto.ca/collections/geospatial-data/london-ont-shapefile-topos-and-orthophotos,
-314,City of Mississauga GIS Datasets and Air photos - 2008 - Sewers,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-gis-datasets-and-air-photos-2008,See also CD # 307 and 307a
-315,Niagara Escarpment Plan Digital Data and Maps,Niagara Escarpment Commission,https://mdl.library.utoronto.ca/collections/geospatial-data/niagara-escarpment-plan-digital-data-and-maps,Required license agreement
+","Lindau, Ralf.",
+304,Exploring the urban community: a GIS approach,"Greene, Richard P.",Contains files to complete tutorial
+305,City of Brampton GIS Datasets and Air photos - 2007 Orthos,City of Brampton,"Orthos on CD, shapefiles online"
+306,City of Brampton GIS Datasets and Air photos - GIS files,City of Brampton,
+307,City of Mississauga GIS Datasets and Air photos - 2008,City of Mississauga,See also CD # 307a
+307a,City of Mississauga GIS Datasets and Air photos - 2008 - Update,City of Mississauga,See also CD # 307
+308,China Digital Maps,Gfk GeoMarketing,
+309,Thailand Digital Maps,Gfk GeoMarketing,
+310,Historical Air Photos Oshawa and Surrounding Area,Unknown,
+311,Topographic Layers Greater Toronto Area,Ontario Ministry of Natural Resources (OMNR),
+312,Historical Toronto Streets / Roads,"Marcel Fortin, University of Toronto Map and Data Library",
+313,London (Ont) Shapefile topos and Orthophotos. - 2007,"City of London, Ont.",
+314,City of Mississauga GIS Datasets and Air photos - 2008 - Sewers,City of Mississauga,See also CD # 307 and 307a
+315,Niagara Escarpment Plan Digital Data and Maps,Niagara Escarpment Commission,Required license agreement
 316,"Toronto Region Conservation Authority
-",Toronto Region Conservation Authority,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-region-conservation-authority,
+",Toronto Region Conservation Authority,
 317,"Halton Hills Air Photos
-",Unknown,https://mdl.library.utoronto.ca/collections/geospatial-data/halton-hills-air-photos,
-318,Places to Grow : GIS Files for the Built Boundary for the Growth Plan for the Greater Golden Horseshoe,Ministry of Public Infrastructure Renewal,https://mdl.library.utoronto.ca/collections/geospatial-data/places-grow-gis-files-built-boundary-growth-plan-greater-golden,
-319,Soils of Southern Ontario,Ontario Ministry of Agriculture and Food. Agriculture and AgriFood Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/soils-southern-ontario,
-320,Neighbourhood environments and resources for healthy living a focus on diabetes in Toronto,"Toronto, ON: Institute for Clinical Evaluative Sciences",https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106558042706196,Contains copy of atlas and presentation with key findings
-321,Community geography : GIS in action,"English, Kim.",https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106217084106196,Contains data for exercises
-322,Geological Atlas of Africa - 2nd edition (2008),"Schluter, Thomas",https://mdl.library.utoronto.ca/collections/geospatial-data/geological-atlas-africa,See also CD # 292
-323,GIS Tutorial for Health,"Kurland, Kristen S. & W. Gorr",https://mdl.library.utoronto.ca/collections/geospatial-data/gis-tutorial-health,
-324,City of Mississauga Datasets and Air photos - 2008 - 08/08,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-air-photos-2008,
-325,Aquatic Landscape Inventory Software (ALIS),Ontario Ministry of Natural Resources (OMNR),https://mdl.library.utoronto.ca/collections/geospatial-data/aquatic-landscape-inventory-software-alis,
-326,London (Ont) Shapefile topos and Orthophotos. - 2008,"City of London, Ont.",https://mdl.library.utoronto.ca/collections/geospatial-data/london-ont-shapefile-topos-and-orthophotos,
-327,Toronto Centreline,"Works and Emergency Services, City of Toronto",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-centreline,
-328,City of Mississauga Datasets and Air photos - 2008 - 05/02,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-air-photos-2008,
-329,City of Mississauga Datasets and Air photos - 2008 - 12/22,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-air-photos-2008,
-330,Ontario Borehole Database,Land Information Ontario; Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/ontario-borehole-database,
-331,Building a GIS System Architecture Design Strategies for Managers,"Peters, Dave","https://mdl.library.utoronto.ca/collections/geospatial-data/building-gis-system-architecture-design-strategies-managers
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106055331806196",
-332,Ontario Digital Elevation Models - Zone 17S,Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/ontario-digital-elevation-models,"See also CD # 333, 334"
-333,Ontario Digital Elevation Models - Zone 18,Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/ontario-digital-elevation-models,"See also CD # 332, 334"
-333.5,General Bathymetric Chart of the Oceans (GEBCO),British Oceanographic Data Centre,https://mdl.library.utoronto.ca/collections/geospatial-data/general-bathymetric-chart-oceans-gebco,
-334,"Ontario Digital Elevation Models - Zone 15, 16, 17N",Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/ontario-digital-elevation-models,"See also CD # 332, 333"
-335,Wind and Wave Atlas of the Mediterranean Sea,Western European Union,"https://mdl.library.utoronto.ca/collections/geospatial-data/wind-and-wave-atlas-mediterranean-sea
-http://search.library.utoronto.ca/details?6811970=",
-336,Mapa oficial de carreteras - 2002,"Centro de Publicaciones, Ministerio de Fomento",https://mdl.library.utoronto.ca/collections/geospatial-data/mapa-oficial-de-carreteras,
-337,Atlas Estadistico de las Areas Urbanasa de Espana,"Spain, Ministerio de Vivienda","https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-estadistico-de-las-areas-urbanasa-de-espana
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991105870708406196",
-338,Atlas do Mundo,ASA Edicoes,"https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-do-mundo
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991105922611906196",
-339,Mapa oficial de carreteras - 2004,"Centro de Publicaciones, Ministerio de Fomento",https://mdl.library.utoronto.ca/collections/geospatial-data/mapa-oficial-de-carreteras,
-340,The First World Travel Atlas,Wolfgang Kunth Verlag GmbH &amp; Co. KG,"https://mdl.library.utoronto.ca/collections/geospatial-data/first-world-travel-atlas
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991105894400306196",
-341,Meyers groer Weltatlas Digital,"Astor, Ellen","https://mdl.library.utoronto.ca/collections/geospatial-data/meyers-groer-weltatlas-digital
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106283637306196",
-342,Atlas Podnebi Ceska/Climate Atlas of Czechia,?eský hydrometeorologický ústav.,"https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-podnebi-ceskaclimate-atlas-czechia
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106001190006196",
-343,Atlas of Deep Water Outcrops,Unknown,"https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-deep-water-outcrops
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106283644606196",
-344,New York City Planimetric Data,New York State Office of Cyber Security & Critical Infrastructure Coordination,https://mdl.library.utoronto.ca/collections/geospatial-data/new-york-city-planimetric-data,Contours not on CD
-345,City of Mississauga Datasets and Colour Orthophotos - 2009 and 2010 - July 2009,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-colour-orthophotos-2009-and-2010,
-346,City of Mississauga Datasets and Colour Orthophotos - 2009 and 2011 - April 2009,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-colour-orthophotos-2009-and-2010,
-347,Ontario Digital Elevation Models,Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/ontario-digital-elevation-models,
-348,Ontario Digital Elevation Models,Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/ontario-digital-elevation-models,
-349,Ontario Digital Elevation Models,Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/ontario-digital-elevation-models,
-350,Lot Fabric 2007,Land Information Ontario,No URL,One shapefile for Southern and Central Ontario
-351,Ontario Landsat 5 and 7,Ontario Ministry of Natural Resources,"https://mdl.library.utoronto.ca/collections/air-photos/ontario-landsat-5
-https://mdl.library.utoronto.ca/collections/air-photos/ontario-landsat-7",
-352,Dufour Map Cartography in the Past and Present,Federal Office of Topography,https://mdl.library.utoronto.ca/collections/geospatial-data/dufour-map-cartography-past-and-present,Exe runs on Windows 10; custom map viewer of 19th century Swiss map
-353,Teranet - Ontario Parcel Data,Teranet,https://mdl.library.utoronto.ca/collections/geospatial-data/teranet-ontario-parcel-data-0,
-354,Finnish Folklore Atlas,"Sarmela, Matti",https://mdl.library.utoronto.ca/collections/geospatial-data/finnish-folklore-atlas,
-354,Introducing Geographic Information Systems with ArcGIS,"Kennedy, Michael","https://mdl.library.utoronto.ca/collections/geospatial-data/introducing-geographic-information-systems-arcgis
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106250716006196",
-355,Atlas hydro-climatologique du Grand-Duché de Luxembourg.,Centre de recherche public Gabriel Lippmann. Département en environnement et agrobiotechnologie. ,"https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-hydro-climatologique-du-grand-duche-de-luxembourg
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106617230806196","CD contains data, not atlas"
-355,Atlas Cartografico Digital del Reino de Chile Siglos XV11-XlX,Unknown,https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-cartografico-digital-del-reino-de-chile-siglos-xv11-xlx,
-357,Socio-Economic Atlas of the Lao PDR,Unknown,https://mdl.library.utoronto.ca/collections/geospatial-data/socio-economic-atlas-lao-pdr,
-358,Atlas de Saneamento - Brazil,Instituto Brasileiro de Geografia e Estatistica,No URL,
-358,Atlas do Ambiente Digital,Unknown,https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-do-ambiente-digital,
-359,Cartography Office Project Specific Series Data,"GIS and Cartography Office, Department of Geography, University of Toronto; and the Neptis Foundation",https://mdl.library.utoronto.ca/collections/geospatial-data/cartography-office-project-specific-series-data,
-360,London (Ont) Shapefile topos and Orthophotos. - 2009,"City of London, Ont.",https://mdl.library.utoronto.ca/collections/geospatial-data/london-ont-shapefile-topos-and-orthophotos,
-361,Lake of the Woods Atlas - Report to IJC,International Joint Commission.,https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106289045406196,Contains scanned copies of atlas maps
-362,City of Mississauga Datasets and Colour Orthophotos - 2009 and 2010 - Storm Sewer,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-colour-orthophotos-2009-and-2010,
-363,Europe Complete,GFK Macon Global Maps,https://mdl.library.utoronto.ca/collections/geospatial-data/europe-complete,
-364,City of Mississauga Datasets and Colour Orthophotos - 2009 and 2010 - October 2009,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-colour-orthophotos-2009-and-2010,
-365,City of Mississauga Datasets and Colour Orthophotos - 2009 and 2010 - December 2009,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-colour-orthophotos-2009-and-2010,
-366,City of Mississauga Datasets and Colour Orthophotos - 2009 and 2010 - March 2010,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-colour-orthophotos-2009-and-2010,
-367,Canada Business Data - Locations,Pitney Bowes Mapinfo,https://mdl.library.utoronto.ca/collections/geospatial-data/canada-business-data,
-368,Canada Business Data - Summary,Pitney Bowes Mapinfo,https://mdl.library.utoronto.ca/collections/geospatial-data/canada-business-data,
-369,Toronto Property Data Maps (PDMs) - 2010,"Works and Emergency Services, City of Toronto",https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-property-data-maps-pdms-1,
-370,Charting the unknown: how computer mapping at Harvard became GIS,Nick Chrisman,"https://mdl.library.utoronto.ca/collections/geospatial-data/charting-unknown-how-computer-mapping-harvard-became-gis
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106505579106196",
-371,Atlas de los Paisajes de Espana,"direccion de Rafael Mata Olmo, Concepcion Sanz Herraiz ; Josefina Gomez Mendoza ... [et al.].","https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-de-los-paisajes-de-espana
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106283825006196",
-372,Geological Quarter Sheet Series,Geological Survey of Victoria,https://mdl.library.utoronto.ca/collections/geospatial-data/geological-quarter-sheet-series,
-373,Annual Arctic Ice Atlas - Winter 2003,Canadian Ice Service,https://mdl.library.utoronto.ca/collections/geospatial-data/annual-arctic-ice-atlas,
-374,Annual Arctic Ice Atlas - Winter 2004,Canadian Ice Service,https://mdl.library.utoronto.ca/collections/geospatial-data/annual-arctic-ice-atlas,
-375,Annual Arctic Ice Atlas - Winter 2005,Canadian Ice Service,https://mdl.library.utoronto.ca/collections/geospatial-data/annual-arctic-ice-atlas,
-376,Annual Arctic Ice Atlas - Winter 2006,Canadian Ice Service,https://mdl.library.utoronto.ca/collections/geospatial-data/annual-arctic-ice-atlas,
-377,Annual Arctic Ice Atlas - Winter 2007,Canadian Ice Service,https://mdl.library.utoronto.ca/collections/geospatial-data/annual-arctic-ice-atlas,
-378,Hamilton GIS Data Update,City of Hamilton,https://mdl.library.utoronto.ca/collections/geospatial-data/hamilton-gis-data-update,
-379,"Greater Toronto Area Surface Data (DEM, TIN, Contours, Break Lines and Hulls) - 640000, 4830000 and 640000, 4850000",Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/greater-toronto-area-surface-data-dem-tin-contours-break-lines-and-hulls,Disc 1 of 5
-379,"Greater Toronto Area Surface Data (DEM, TIN, Contours, Break Lines and Hulls) - 600000, 4830000 and 620000, 4830000",Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/greater-toronto-area-surface-data-dem-tin-contours-break-lines-and-hulls,Disc 3 of 5
-379,"Greater Toronto Area Surface Data (DEM, TIN, Contours, Break Lines and Hulls) - 620000, 4850000",Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/greater-toronto-area-surface-data-dem-tin-contours-break-lines-and-hulls,Disc 2 of 5
-380,"Greater Toronto Area Surface Data (DEM, TIN, Contours, Break Lines and Hulls) - 60000, 4810000 and data agreement",Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/greater-toronto-area-surface-data-dem-tin-contours-break-lines-and-hulls,Disc 5 of 5
-381,"Greater Toronto Area Surface Data (DEM, TIN, Contours, Break Lines and Hulls) - 600000, 4850000",Ontario Ministry of Natural Resources,https://mdl.library.utoronto.ca/collections/geospatial-data/greater-toronto-area-surface-data-dem-tin-contours-break-lines-and-hulls,Disc 4 of 5
-382,Ontario Road Network (ORN) - superseded editions - 2007,Government of Ontario,https://mdl.library.utoronto.ca/collections/geospatial-data/ontario-road-network-orn-superseded-editions,
-383,Historical Toronto Land Patents,"Marcel Fortin, University of Toronto Map and Data Library",https://mdl.library.utoronto.ca/collections/geospatial-data/historical-toronto-land-patents,
-384,Toronto Clutter Data,RMSI,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-clutter-data,
-385,Atlas Andreatta,Verena Andreatta,"https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-andreatta
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106644482806196",
-386,Atlas Almeria,"Lorca, Andres Garcia",https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-almeria,
-387,Der Grosse Ploetz Atlas zur Weltgeschichte,Vandenhoeck & Ruprecht GmbH & Co.,https://mdl.library.utoronto.ca/collections/geospatial-data/der-grosse-ploetz-atlas-zur-weltgeschichte,
-388,The Finest Illustrated Maps of Hungary 1528-1895,"Plihal, Katalin",https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106078345106196,Contains some maps
-389,The Newberry Library Historic Maps in K-12 Classroom,Newberry Library,No URL,Modules about history
-390,Atlas Geográfico Escolar,Instituto Brasileiro de Geografia e Estatistica,"https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-geogr%C3%A1fico-escolar
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106511989306196",
-391,The Business World Atlas,"der Deutschsprachigen Ausgabe by Redline Wirtschaft, Redline GmbH",https://mdl.library.utoronto.ca/collections/geospatial-data/business-world-atlas,
-392,Terra Viva SEDAC Viewer,"ISCIENCES, L. L. C. and Columbia University",https://mdl.library.utoronto.ca/collections/geospatial-data/terra-viva-sedac-viewer,
-393,Õkobase Umweltatlas,Clemens Hölter GmbH,https://mdl.library.utoronto.ca/collections/geospatial-data/%C3%B5kobase-umweltatlas,
-394,Digital Atlas of Indonesian History (2010),Robert Cribb,"No URL
-Older version: https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106476038006196",
-394,Geographical Distribution of Adult Literacy Skills in Canada,Human Resources and Social Development Canada,https://mdl.library.utoronto.ca/collections/geospatial-data/geographical-distribution-adult-literacy-skills-canada,
-395,Map of the City of Hamilton - 1850 Burlington Bay,Marcus Smith,No URL,
-395,City of Mississauga Datasets and Colour Orthophotos - 2010 update - June,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-colour-orthophotos-2010-update,Disc 1 of 2
-396,City of Mississauga Datasets and Colour Orthophotos - 2010 update - June,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-colour-orthophotos-2010-update,Disc 2 of 2
-397,Toronto Lidar Data - 2008,Airborne 1 / Google,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-lidar-data-2008,
-398,Toronto Lidar Data - 2008 - Complete set,Airborne 1 / Google,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-lidar-data-2008,
-399,Teranet - Ontario Parcel Data,Teranet,https://mdl.library.utoronto.ca/collections/geospatial-data/teranet-ontario-parcel-data,
-400,Floodplain Hazard Land Mapping,Ontario Ministry of Northern Development and Mines,https://mdl.library.utoronto.ca/collections/geospatial-data/floodplain-hazard-land-mapping,Disc 1 of 4
-401,Floodplain Hazard Land Mapping,Ontario Ministry of Northern Development and Mines,https://mdl.library.utoronto.ca/collections/geospatial-data/floodplain-hazard-land-mapping,Disc 2 of 4
-402,Floodplain Hazard Land Mapping,Ontario Ministry of Northern Development and Mines,https://mdl.library.utoronto.ca/collections/geospatial-data/floodplain-hazard-land-mapping,Disc 3 of 4
-403,Floodplain Hazard Land Mapping,Ontario Ministry of Northern Development and Mines,https://mdl.library.utoronto.ca/collections/geospatial-data/floodplain-hazard-land-mapping,Disc 4 of 4
-404,London (Ont) Shapefile topos and Orthophotos. - 2010,"City of London, Ont.",https://mdl.library.utoronto.ca/collections/geospatial-data/london-ont-shapefile-topos-and-orthophotos,
-405,City of Mississauga Datasets and Colour Orthophotos - 2010 update - December,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-colour-orthophotos-2010-update,
-406,City of Mississauga Datasets and Colour Orthophotos - 2010 update - September,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-and-colour-orthophotos-2010-update,
-407,City of Mississauga Datasets - 2011 - March,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2011,Disc 1 of 2
-408,City of Mississauga Datasets - 2011 - March,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2011,Disc 2 of 2
-409,City of Mississauga Datasets - 2011 - June,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2011,Disc 1 of 2
-410,City of Mississauga Datasets - 2011 - June,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2011,Disc 2 of 2
-411,City of Mississauga Datasets - 2011 - September,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2011,Disc 1 of 2
-412,City of Mississauga Datasets - 2011 - September,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2011,Disc 2 of 2
-413,GIS 20 Essential Skills,Gina Clemmer,"https://mdl.library.utoronto.ca/collections/geospatial-data/gis-20-essential-skills
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106736058706196",
-414,ESRI Streetmap Premium Europe and North America - Europe 2,TomTom,https://mdl.library.utoronto.ca/collections/geospatial-data/esri-streetmap-premium-europe-and-north-america,
-415,ESRI Streetmap Premium Europe and North America - North America 2,TomTom,https://mdl.library.utoronto.ca/collections/geospatial-data/esri-streetmap-premium-europe-and-north-america,
-416,ESRI Streetmap Premium Europe and North America - Europe 1,TomTom,https://mdl.library.utoronto.ca/collections/geospatial-data/esri-streetmap-premium-europe-and-north-america,
-417,ESRI Streetmap Premium Europe and North America - North America 1,TomTom,https://mdl.library.utoronto.ca/collections/geospatial-data/esri-streetmap-premium-europe-and-north-america,
-418,Africa Digital Maps,GfK GeoMarketing,https://mdl.library.utoronto.ca/collections/geospatial-data/africa-digital-maps,
-419,London (Ont) Shapefile topos and Orthophotos. - 2011,"City of London, Ont.",https://mdl.library.utoronto.ca/collections/geospatial-data/london-ont-shapefile-topos-and-orthophotos,
-420,City of Mississauga Datasets - 2011 - December,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2011,Disc 1 of 2
-421,City of Mississauga Datasets - 2011 - December,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2011,Disc 2 of 2
-422,City of Mississauga Datasets - 2012 - April,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2012,Disc 1 of 2
-423,City of Mississauga Datasets - 2012 - April,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2012,Disc 2 of 2
-424,Teranet - Ontario Parcel Data,Teranet,https://mdl.library.utoronto.ca/collections/geospatial-data/teranet-ontario-parcel-data-4,
-425,Asia GIS Data,GfK GeoMarketing,https://mdl.library.utoronto.ca/collections/geospatial-data/asia-gis-data,
-426,City of Mississauga Storm Sewer Network,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-storm-sewer-network,
-427,City of Mississauga Datasets - 2012 - June,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2012,Disc 1 of 2
-428,City of Mississauga Datasets - 2012 - June,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2012,Disc 2 of 2
-429,ESRI Data: World Base Maps,ESRI,https://mdl.library.utoronto.ca/collections/geospatial-data/esri-data-world-base-maps-0,Disc 1 of 3
-430,ESRI Data: World Base Maps,ESRI,https://mdl.library.utoronto.ca/collections/geospatial-data/esri-data-world-base-maps-0,Disc 2 of 3
-431,ESRI Data: World Base Maps,ESRI,https://mdl.library.utoronto.ca/collections/geospatial-data/esri-data-world-base-maps-0,Disc 3 of 3
-432,GIS Tutorial II Spatial Analysis Workbook,David W. Allen,"https://mdl.library.utoronto.ca/collections/geospatial-data/gis-tutorial-ii-spatial-analysis-workbook
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106736058706196",See also CD # 438
-433,GIS Tutorial Workbook for ArcView,Wilpen L. Gorr and Kristen S. Kurland,"https://mdl.library.utoronto.ca/collections/geospatial-data/gis-tutorial-workbook-arcview
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106478895406196",
-434,GIS Tutorial for Marketing,Fred L. Miller,"https://mdl.library.utoronto.ca/collections/geospatial-data/gis-tutorial-marketing
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106704937706196",
-435,City of Mississauga Datasets - 2012 - October,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2012,2 discs
-436,London (Ont) Shapefile topos and Orthophotos. - 2012,"City of London, Ont.",https://mdl.library.utoronto.ca/collections/geospatial-data/london-ont-shapefile-topos-and-orthophotos,
-437,China 2000-2010 City Population Census Data with GIS Maps,"All China Marketing Research Co., Ltd.",https://mdl.library.utoronto.ca/collections/geospatial-data/china-2000-2010-city-population-census-data-gis-maps,
-438,GIS Tutorial II Spatial Analysis Workbook - 2011,David W. Allen,"https://mdl.library.utoronto.ca/collections/geospatial-data/gis-tutorial-ii-spatial-analysis-workbook
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106478897706196",See also CD # 432
-439,Iran Road Tranport Atlas,Iran Transportation & Terminals Organization,https://mdl.library.utoronto.ca/collections/geospatial-data/iran-road-tranport-atlas,
-440,"Tabula Imperii Romani: K 35/2, Philippopolis","Dalakov, Stefan",https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106322905306196,
-441,Rare metal mineralizations in Quebec,Ressources naturelles Quebec,https://mdl.library.utoronto.ca/collections/geospatial-data/rare-metal-mineralizations-quebec,
-442,Digitaler Atlas Hintergrundwerte,Unknown,https://mdl.library.utoronto.ca/collections/geospatial-data/digitaler-atlas-hintergrundwerte,
-443,Ni-Cu-PGE mineralizations in Quebec,Ressources naturelles Quebec,https://mdl.library.utoronto.ca/collections/geospatial-data/ni-cu-pge-mineralizations-quebec,
-444,City of Mississauga Datasets - 2013 - April,City of Mississauga,https://mdl.library.utoronto.ca/collections/geospatial-data/city-mississauga-datasets-2013,
-445,SpatiaLabs,ESRI,https://mdl.library.utoronto.ca/collections/geospatial-data/spatialabs,
-446,ESRI Streetmap for Arclogistics,TomTom,https://mdl.library.utoronto.ca/collections/geospatial-data/esri-streetmap-arclogistics,Disc 1 of 3
-447,ESRI Streetmap for Arclogistics,TomTom,https://mdl.library.utoronto.ca/collections/geospatial-data/esri-streetmap-arclogistics,Disc 3 of 3
-448,ESRI Streetmap for Arclogistics,TomTom,https://mdl.library.utoronto.ca/collections/geospatial-data/esri-streetmap-arclogistics,Disc 2 of 3
-449,Maps of India CD,Unknown,https://mdl.library.utoronto.ca/collections/geospatial-data/maps-india-cd,
-453,London (Ont) Shapefile topos and Orthophotos. - 2013,"City of London, Ont.",https://mdl.library.utoronto.ca/collections/geospatial-data/london-ont-shapefile-topos-and-orthophotos,
-458,Atlas map ?eské republiky GEO?R 500,Unknown,https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-map-%C4%8Desk%C3%A9-republiky-geo%C4%8Dr-500,
-462,Forest Resource Inventory (FRI),Ontario Ministry of Natural Resources (OMNR),https://mdl.library.utoronto.ca/collections/geospatial-data/forest-resource-inventory-fri-0,
-463,The changing faces of the Arctic: a glance at the top of the world from magnetic and gravity view,Unknown,https://mdl.library.utoronto.ca/collections/geospatial-data/changing-faces-arctic-glance-top-world-magnetic-and-gravity-view,
-464,Beijing GIS Maps with Census Data,"All China Marketing Research Co., Ltd.",https://mdl.library.utoronto.ca/collections/geospatial-data/beijing-gis-maps-census-data,
-465,China 2000-2010 City Population Census Data with GIS Maps,"All China Marketing Research Co., Ltd.",https://mdl.library.utoronto.ca/collections/geospatial-data/china-2000-2010-city-population-census-data-gis-maps,
-466,China 2010 Township Population Census Data with GIS Maps,"All China Marketing Research Co., Ltd.",https://mdl.library.utoronto.ca/collections/geospatial-data/china-2010-township-population-census-data-gis-maps,
-467,Teranet - Ontario Parcel Data,Teranet,https://mdl.library.utoronto.ca/collections/geospatial-data/teranet-ontario-parcel-data-1,
-468,Toronto Region Conservation Authority Data,Toronto Region Conservation Authority,https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-region-conservation-authority-data,
-469,Macau GeoGuide,"Ao Ka Kun, Lai Chek Sam, Cheong Sai Meng, Tam Chong Pak, Lam Ka Fai, Loi lat Kei, Cheang Kueng Chon","https://mdl.library.utoronto.ca/collections/geospatial-data/macau-geoguide
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106058063206196",Paired with 2011 Atlas de Macau/Atlas of Macao (MMS ID: https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/10o42ki/alma991106058063206196)
-470,Atlas Ukraine radioactive contamination,Unknown,"https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-ukraine-radioactive-contamination
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991105891898706196",
-471,Lloyd's maritime atlas of world ports and shipping places,"Department of Maritime Studies, University of Wales College of Cardiff","https://mdl.library.utoronto.ca/collections/geospatial-data/lloyds-maritime-atlas-world-ports-and-shipping-places
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106082342206196",
-472,Atlas climático Ibérico/Iberian climate atlas,Unknown,"https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-clim%C3%A1tico-ib%C3%A9ricoiberian-climate-atlas
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/mi8gb7/alma991106082344806196",
-473,Seismic atlas of the Messinian salinity crisis markers in the Mediterranean and Black Seas,Johanna Lofi et al.,"https://mdl.library.utoronto.ca/collections/geospatial-data/seismic-atlas-messinian-salinity-crisis-markers-mediterranean-and-black
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106270788906196",
-474,Luftbildatlas Berliner Innenstadt,"Cornelia Dorries, Philipp Meuser","https://mdl.library.utoronto.ca/collections/geospatial-data/luftbildatlas-berliner-innenstadt
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106066360706196",
-475,"Historic Census Geographic Areas, Digital Boundaries Australia 1981-1996",Australian Bureau of Statistics,https://mdl.library.utoronto.ca/collections/geospatial-data/historic-census-geographic-areas-digital-boundaries-australia-1981-1996,
-476,Global Change Atlas: Upper Danube Catchment Area,Unknown,No URL,Atlas is in German
-477,Atlas Moskva : s kazhdym domom,Unknown,"https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-moskva-s-kazhdym-domom
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106612138406196",
-478,"Historic Census Geographic Areas, Digital Boundaries Australia 1981-1996 - 2001",Australian Bureau of Statistics,https://mdl.library.utoronto.ca/collections/geospatial-data/historic-census-geographic-areas-digital-boundaries-australia-1981-1996,
-479,Atlas of statewise generalised isopluvial (return period) maps of Southern Peninsula,India. Meteorological Department. Hydrometeorology Division. ,https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106298476206196,
-479,Atlas of statewise generalised isopluvial (return period) maps of Eastern India,India. Meteorological Department. Hydrometeorology Division. ,https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106298476206196,
-479,Atlas of statewise generalised isopluvial (return period) maps of Central India,India. Meteorological Department. Hydrometeorology Division. ,https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106298476206196,
-479,Atlas of statewise generalised isopluvial (return period) maps of Northern India,India. Meteorological Department. Hydrometeorology Division. ,https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106298476206196,
-480,Atlas de Extremadura,"Boni Sánchez, Adrián Ssegura, Felipe Leco, José A. Mateos","https://mdl.library.utoronto.ca/collections/geospatial-data/atlas-de-extremadura
-https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991105987989506196",
-481,Former City of Toronto Zoning By-laws Office Consolidations - 2012,City of Toronto Planning Department,https://mdl.library.utoronto.ca/collections/geospatial-data/former-city-toronto-zoning-laws-office-consolidations,
-482,The British Library Map Catalogue on CD-ROM,Map Library (British Library),https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106118840406196,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
+",Unknown,
+318,Places to Grow : GIS Files for the Built Boundary for the Growth Plan for the Greater Golden Horseshoe,Ministry of Public Infrastructure Renewal,
+319,Soils of Southern Ontario,Ontario Ministry of Agriculture and Food. Agriculture and AgriFood Canada,
+320,Neighbourhood environments and resources for healthy living a focus on diabetes in Toronto,"Toronto, ON: Institute for Clinical Evaluative Sciences",Contains copy of atlas and presentation with key findings
+321,Community geography : GIS in action,"English, Kim.",Contains data for exercises
+322,Geological Atlas of Africa - 2nd edition (2008),"Schluter, Thomas",See also CD # 292
+323,GIS Tutorial for Health,"Kurland, Kristen S. & W. Gorr",
+324,City of Mississauga Datasets and Air photos - 2008 - 08/08,City of Mississauga,
+325,Aquatic Landscape Inventory Software (ALIS),Ontario Ministry of Natural Resources (OMNR),
+326,London (Ont) Shapefile topos and Orthophotos. - 2008,"City of London, Ont.",
+327,Toronto Centreline,"Works and Emergency Services, City of Toronto",
+328,City of Mississauga Datasets and Air photos - 2008 - 05/02,City of Mississauga,
+329,City of Mississauga Datasets and Air photos - 2008 - 12/22,City of Mississauga,
+330,Ontario Borehole Database,Land Information Ontario; Ontario Ministry of Natural Resources,
+331,Building a GIS System Architecture Design Strategies for Managers,"Peters, Dave",
+332,Ontario Digital Elevation Models - Zone 17S,Ontario Ministry of Natural Resources,"See also CD # 333, 334"
+333,Ontario Digital Elevation Models - Zone 18,Ontario Ministry of Natural Resources,"See also CD # 332, 334"
+333.5,General Bathymetric Chart of the Oceans (GEBCO),British Oceanographic Data Centre,
+334,"Ontario Digital Elevation Models - Zone 15, 16, 17N",Ontario Ministry of Natural Resources,"See also CD # 332, 333"
+335,Wind and Wave Atlas of the Mediterranean Sea,Western European Union,
+336,Mapa oficial de carreteras - 2002,"Centro de Publicaciones, Ministerio de Fomento",
+337,Atlas Estadistico de las Areas Urbanasa de Espana,"Spain, Ministerio de Vivienda",
+338,Atlas do Mundo,ASA Edicoes,
+339,Mapa oficial de carreteras - 2004,"Centro de Publicaciones, Ministerio de Fomento",
+340,The First World Travel Atlas,Wolfgang Kunth Verlag GmbH &amp; Co. KG,
+341,Meyers groer Weltatlas Digital,"Astor, Ellen",
+342,Atlas Podnebi Ceska/Climate Atlas of Czechia,?eský hydrometeorologický ústav.,
+343,Atlas of Deep Water Outcrops,Unknown,
+344,New York City Planimetric Data,New York State Office of Cyber Security & Critical Infrastructure Coordination,Contours not on CD
+345,City of Mississauga Datasets and Colour Orthophotos - 2009 and 2010 - July 2009,City of Mississauga,
+346,City of Mississauga Datasets and Colour Orthophotos - 2009 and 2011 - April 2009,City of Mississauga,
+347,Ontario Digital Elevation Models,Ontario Ministry of Natural Resources,
+348,Ontario Digital Elevation Models,Ontario Ministry of Natural Resources,
+349,Ontario Digital Elevation Models,Ontario Ministry of Natural Resources,
+350,Lot Fabric 2007,Land Information Ontario,One shapefile for Southern and Central Ontario
+351,Ontario Landsat 5 and 7,Ontario Ministry of Natural Resources,
+352,Dufour Map Cartography in the Past and Present,Federal Office of Topography,Exe runs on Windows 10; custom map viewer of 19th century Swiss map
+353,Teranet - Ontario Parcel Data,Teranet,
+354,Finnish Folklore Atlas,"Sarmela, Matti",
+354,Introducing Geographic Information Systems with ArcGIS,"Kennedy, Michael",
+355,Atlas hydro-climatologique du Grand-Duché de Luxembourg.,Centre de recherche public Gabriel Lippmann. Département en environnement et agrobiotechnologie. ,"CD contains data, not atlas"
+355,Atlas Cartografico Digital del Reino de Chile Siglos XV11-XlX,Unknown,
+357,Socio-Economic Atlas of the Lao PDR,Unknown,
+358,Atlas de Saneamento - Brazil,Instituto Brasileiro de Geografia e Estatistica,
+358,Atlas do Ambiente Digital,Unknown,
+359,Cartography Office Project Specific Series Data,"GIS and Cartography Office, Department of Geography, University of Toronto; and the Neptis Foundation",
+360,London (Ont) Shapefile topos and Orthophotos. - 2009,"City of London, Ont.",
+361,Lake of the Woods Atlas - Report to IJC,International Joint Commission.,Contains scanned copies of atlas maps
+362,City of Mississauga Datasets and Colour Orthophotos - 2009 and 2010 - Storm Sewer,City of Mississauga,
+363,Europe Complete,GFK Macon Global Maps,
+364,City of Mississauga Datasets and Colour Orthophotos - 2009 and 2010 - October 2009,City of Mississauga,
+365,City of Mississauga Datasets and Colour Orthophotos - 2009 and 2010 - December 2009,City of Mississauga,
+366,City of Mississauga Datasets and Colour Orthophotos - 2009 and 2010 - March 2010,City of Mississauga,
+367,Canada Business Data - Locations,Pitney Bowes Mapinfo,
+368,Canada Business Data - Summary,Pitney Bowes Mapinfo,
+369,Toronto Property Data Maps (PDMs) - 2010,"Works and Emergency Services, City of Toronto",
+370,Charting the unknown: how computer mapping at Harvard became GIS,Nick Chrisman,
+371,Atlas de los Paisajes de Espana,"direccion de Rafael Mata Olmo, Concepcion Sanz Herraiz ; Josefina Gomez Mendoza ... [et al.].",
+372,Geological Quarter Sheet Series,Geological Survey of Victoria,
+373,Annual Arctic Ice Atlas - Winter 2003,Canadian Ice Service,
+374,Annual Arctic Ice Atlas - Winter 2004,Canadian Ice Service,
+375,Annual Arctic Ice Atlas - Winter 2005,Canadian Ice Service,
+376,Annual Arctic Ice Atlas - Winter 2006,Canadian Ice Service,
+377,Annual Arctic Ice Atlas - Winter 2007,Canadian Ice Service,
+378,Hamilton GIS Data Update,City of Hamilton,
+379,"Greater Toronto Area Surface Data (DEM, TIN, Contours, Break Lines and Hulls) - 640000, 4830000 and 640000, 4850000",Ontario Ministry of Natural Resources,Disc 1 of 5
+379,"Greater Toronto Area Surface Data (DEM, TIN, Contours, Break Lines and Hulls) - 600000, 4830000 and 620000, 4830000",Ontario Ministry of Natural Resources,Disc 3 of 5
+379,"Greater Toronto Area Surface Data (DEM, TIN, Contours, Break Lines and Hulls) - 620000, 4850000",Ontario Ministry of Natural Resources,Disc 2 of 5
+380,"Greater Toronto Area Surface Data (DEM, TIN, Contours, Break Lines and Hulls) - 60000, 4810000 and data agreement",Ontario Ministry of Natural Resources,Disc 5 of 5
+381,"Greater Toronto Area Surface Data (DEM, TIN, Contours, Break Lines and Hulls) - 600000, 4850000",Ontario Ministry of Natural Resources,Disc 4 of 5
+382,Ontario Road Network (ORN) - superseded editions - 2007,Government of Ontario,
+383,Historical Toronto Land Patents,"Marcel Fortin, University of Toronto Map and Data Library",
+384,Toronto Clutter Data,RMSI,
+385,Atlas Andreatta,Verena Andreatta,
+386,Atlas Almeria,"Lorca, Andres Garcia",
+387,Der Grosse Ploetz Atlas zur Weltgeschichte,Vandenhoeck & Ruprecht GmbH & Co.,
+388,The Finest Illustrated Maps of Hungary 1528-1895,"Plihal, Katalin",Contains some maps
+389,The Newberry Library Historic Maps in K-12 Classroom,Newberry Library,Modules about history
+390,Atlas Geográfico Escolar,Instituto Brasileiro de Geografia e Estatistica,
+391,The Business World Atlas,"der Deutschsprachigen Ausgabe by Redline Wirtschaft, Redline GmbH",
+392,Terra Viva SEDAC Viewer,"ISCIENCES, L. L. C. and Columbia University",
+393,Õkobase Umweltatlas,Clemens Hölter GmbH,
+394,Digital Atlas of Indonesian History (2010),Robert Cribb,
+394,Geographical Distribution of Adult Literacy Skills in Canada,Human Resources and Social Development Canada,
+395,Map of the City of Hamilton - 1850 Burlington Bay,Marcus Smith,
+395,City of Mississauga Datasets and Colour Orthophotos - 2010 update - June,City of Mississauga,Disc 1 of 2
+396,City of Mississauga Datasets and Colour Orthophotos - 2010 update - June,City of Mississauga,Disc 2 of 2
+397,Toronto Lidar Data - 2008,Airborne 1 / Google,
+398,Toronto Lidar Data - 2008 - Complete set,Airborne 1 / Google,
+399,Teranet - Ontario Parcel Data,Teranet,
+400,Floodplain Hazard Land Mapping,Ontario Ministry of Northern Development and Mines,Disc 1 of 4
+401,Floodplain Hazard Land Mapping,Ontario Ministry of Northern Development and Mines,Disc 2 of 4
+402,Floodplain Hazard Land Mapping,Ontario Ministry of Northern Development and Mines,Disc 3 of 4
+403,Floodplain Hazard Land Mapping,Ontario Ministry of Northern Development and Mines,Disc 4 of 4
+404,London (Ont) Shapefile topos and Orthophotos. - 2010,"City of London, Ont.",
+405,City of Mississauga Datasets and Colour Orthophotos - 2010 update - December,City of Mississauga,
+406,City of Mississauga Datasets and Colour Orthophotos - 2010 update - September,City of Mississauga,
+407,City of Mississauga Datasets - 2011 - March,City of Mississauga,Disc 1 of 2
+408,City of Mississauga Datasets - 2011 - March,City of Mississauga,Disc 2 of 2
+409,City of Mississauga Datasets - 2011 - June,City of Mississauga,Disc 1 of 2
+410,City of Mississauga Datasets - 2011 - June,City of Mississauga,Disc 2 of 2
+411,City of Mississauga Datasets - 2011 - September,City of Mississauga,Disc 1 of 2
+412,City of Mississauga Datasets - 2011 - September,City of Mississauga,Disc 2 of 2
+413,GIS 20 Essential Skills,Gina Clemmer,
+414,ESRI Streetmap Premium Europe and North America - Europe 2,TomTom,
+415,ESRI Streetmap Premium Europe and North America - North America 2,TomTom,
+416,ESRI Streetmap Premium Europe and North America - Europe 1,TomTom,
+417,ESRI Streetmap Premium Europe and North America - North America 1,TomTom,
+418,Africa Digital Maps,GfK GeoMarketing,
+419,London (Ont) Shapefile topos and Orthophotos. - 2011,"City of London, Ont.",
+420,City of Mississauga Datasets - 2011 - December,City of Mississauga,Disc 1 of 2
+421,City of Mississauga Datasets - 2011 - December,City of Mississauga,Disc 2 of 2
+422,City of Mississauga Datasets - 2012 - April,City of Mississauga,Disc 1 of 2
+423,City of Mississauga Datasets - 2012 - April,City of Mississauga,Disc 2 of 2
+424,Teranet - Ontario Parcel Data,Teranet,
+425,Asia GIS Data,GfK GeoMarketing,
+426,City of Mississauga Storm Sewer Network,City of Mississauga,
+427,City of Mississauga Datasets - 2012 - June,City of Mississauga,Disc 1 of 2
+428,City of Mississauga Datasets - 2012 - June,City of Mississauga,Disc 2 of 2
+429,ESRI Data: World Base Maps,ESRI,Disc 1 of 3
+430,ESRI Data: World Base Maps,ESRI,Disc 2 of 3
+431,ESRI Data: World Base Maps,ESRI,Disc 3 of 3
+432,GIS Tutorial II Spatial Analysis Workbook,David W. Allen,See also CD # 438
+433,GIS Tutorial Workbook for ArcView,Wilpen L. Gorr and Kristen S. Kurland,
+434,GIS Tutorial for Marketing,Fred L. Miller,
+435,City of Mississauga Datasets - 2012 - October,City of Mississauga,2 discs
+436,London (Ont) Shapefile topos and Orthophotos. - 2012,"City of London, Ont.",
+437,China 2000-2010 City Population Census Data with GIS Maps,"All China Marketing Research Co., Ltd.",
+438,GIS Tutorial II Spatial Analysis Workbook - 2011,David W. Allen,See also CD # 432
+439,Iran Road Tranport Atlas,Iran Transportation & Terminals Organization,
+440,"Tabula Imperii Romani: K 35/2, Philippopolis","Dalakov, Stefan",
+441,Rare metal mineralizations in Quebec,Ressources naturelles Quebec,
+442,Digitaler Atlas Hintergrundwerte,Unknown,
+443,Ni-Cu-PGE mineralizations in Quebec,Ressources naturelles Quebec,
+444,City of Mississauga Datasets - 2013 - April,City of Mississauga,
+445,SpatiaLabs,ESRI,
+446,ESRI Streetmap for Arclogistics,TomTom,Disc 1 of 3
+447,ESRI Streetmap for Arclogistics,TomTom,Disc 3 of 3
+448,ESRI Streetmap for Arclogistics,TomTom,Disc 2 of 3
+449,Maps of India CD,Unknown,
+453,London (Ont) Shapefile topos and Orthophotos. - 2013,"City of London, Ont.",
+458,Atlas map ?eské republiky GEO?R 500,Unknown,
+462,Forest Resource Inventory (FRI),Ontario Ministry of Natural Resources (OMNR),
+463,The changing faces of the Arctic: a glance at the top of the world from magnetic and gravity view,Unknown,
+464,Beijing GIS Maps with Census Data,"All China Marketing Research Co., Ltd.",
+465,China 2000-2010 City Population Census Data with GIS Maps,"All China Marketing Research Co., Ltd.",
+466,China 2010 Township Population Census Data with GIS Maps,"All China Marketing Research Co., Ltd.",
+467,Teranet - Ontario Parcel Data,Teranet,
+468,Toronto Region Conservation Authority Data,Toronto Region Conservation Authority,
+469,Macau GeoGuide,"Ao Ka Kun, Lai Chek Sam, Cheong Sai Meng, Tam Chong Pak, Lam Ka Fai, Loi lat Kei, Cheang Kueng Chon",Paired with 2011 Atlas de Macau/Atlas of Macao (MMS ID: https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/10o42ki/alma991106058063206196)
+470,Atlas Ukraine radioactive contamination,Unknown,
+471,Lloyd's maritime atlas of world ports and shipping places,"Department of Maritime Studies, University of Wales College of Cardiff",
+472,Atlas climático Ibérico/Iberian climate atlas,Unknown,
+473,Seismic atlas of the Messinian salinity crisis markers in the Mediterranean and Black Seas,Johanna Lofi et al.,
+474,Luftbildatlas Berliner Innenstadt,"Cornelia Dorries, Philipp Meuser",
+475,"Historic Census Geographic Areas, Digital Boundaries Australia 1981-1996",Australian Bureau of Statistics,
+476,Global Change Atlas: Upper Danube Catchment Area,Unknown,Atlas is in German
+477,Atlas Moskva : s kazhdym domom,Unknown,
+478,"Historic Census Geographic Areas, Digital Boundaries Australia 1981-1996 - 2001",Australian Bureau of Statistics,
+479,Atlas of statewise generalised isopluvial (return period) maps of Southern Peninsula,India. Meteorological Department. Hydrometeorology Division. ,
+479,Atlas of statewise generalised isopluvial (return period) maps of Eastern India,India. Meteorological Department. Hydrometeorology Division. ,
+479,Atlas of statewise generalised isopluvial (return period) maps of Central India,India. Meteorological Department. Hydrometeorology Division. ,
+479,Atlas of statewise generalised isopluvial (return period) maps of Northern India,India. Meteorological Department. Hydrometeorology Division. ,
+480,Atlas de Extremadura,"Boni Sánchez, Adrián Ssegura, Felipe Leco, José A. Mateos",
+481,Former City of Toronto Zoning By-laws Office Consolidations - 2012,City of Toronto Planning Department,
+482,The British Library Map Catalogue on CD-ROM,Map Library (British Library),
