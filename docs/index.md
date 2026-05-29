@@ -19,6 +19,6 @@ maintainer:
 #   link: https://example.com/another-student  # link is optional
 ---
 
-# Just the docs template
 
-See the <a href="https://mdlutoronto.github.io/jtd-edit-setup/create-new-guide/" target="_blank"> Create a New Guide</a> page to get started with creating your own guide!
+{% include csv_table.html data_key="geospatial_data_CD_inventory" %}
+
